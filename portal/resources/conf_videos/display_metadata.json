@@ -1,0 +1,87 @@
+{
+    "group": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Group",
+        "filter": "dropdown"
+    },
+    "playlistId": {
+        "displayTable": false,
+        "type": "string"
+    },
+    "playlistTitle": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Playlist",
+        "filter": "dropdown"
+    },
+    "videoId": {
+        "displayTable": true,
+        "type": "YouTubeId",
+        "label": "Video",
+        "width": 60
+    },
+    "youtube": {
+        "displayTable": false,
+        "type": "Boolean",
+        "label": "Is Youtube Video?"
+    },
+    "title": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Title",
+        "filter": "text"
+    },
+    "description": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Description",
+        "filter": "text"
+    },
+    "author": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Author",
+        "filter": "text"
+    },
+    "company": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Company",
+        "filter": "text"
+    },
+    "publishedAt": {
+        "displayTable": true,
+        "type": "string",
+        "label": "Date",
+        "width": 120
+    },
+    "duration": {
+        "displayTable": true,
+        "type": "int",
+        "label": "Duration",
+        "width": 60
+    },
+    "statViewCount": {
+        "displayTable": true,
+        "type": "int",
+        "label": "Views",
+        "width": 60
+    },
+    "statLikeCount": {
+        "displayTable": true,
+        "type": "int",
+        "label": "Likes",
+        "width": 60
+    },
+    "statDislikeCount": {
+        "displayTable": false,
+        "type": "int",
+        "label": "Dislikes"
+    },
+    "statCommentCount": {
+        "displayTable": false,
+        "type": "int",
+        "label": "Comments"
+    }
+}

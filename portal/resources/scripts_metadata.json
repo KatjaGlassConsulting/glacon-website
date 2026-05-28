@@ -1,0 +1,201 @@
+{ 
+    "tool" : {
+        "displayDetailsView" : false,
+        "displayTable" : true,
+        "label" : "Group",
+        "filter": "dropdown",
+        "type" : "string",
+        "width" : 200
+    },
+    "toolId" : {
+        "displayDetailsView" : false,
+        "type" : "string"
+    },
+    "name" : {
+        "displayDetailsView" : false,
+        "displayTable" : true,
+        "label" : "Name",
+        "filter": "text",
+        "type" : "string",
+        "width" : 200
+    },
+    "filename" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "File Name"
+    },
+    "description" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "displayTable" : true,
+        "filter": "text",
+        "type" : "string",
+        "label" : "Description"
+    },
+    "descriptionMore" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "More"
+    },
+    "issues" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Issues"
+    },
+    "usage" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Example"
+    },
+    "type" : {
+        "displayDetailsView" : true,
+        "displayTable" : true,
+        "filter": "dropdown",
+        "type" : "string",
+        "label" : "Type",
+        "width" : 90
+    },
+    "keywords" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Keywords"
+    },
+    "title" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Title"
+    },
+    "scriptType" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Script Type"
+    },
+    "stage" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Stage"
+    },
+    "class" : {
+        "displayDetailsView" : true,
+        "displayTable" : true,
+        "filter": "dropdown",
+        "type" : "string",
+        "label" : "Class",
+        "width" : 90
+    },
+    "language" : {
+        "displayDetailsView" : true,
+        "displayTable" : true,
+        "filter": "dropdown",
+        "type" : "string",
+        "label" : "Language",
+        "width" : 95
+    },
+    "language_version" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Version (Lang.)"
+    },
+    "author" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Author"
+    },
+    "creationDate" : {
+        "displayDetailsView" : false,
+        "type" : "string",
+        "label" : "Creation Date"
+    },
+    "lastModifiedDate" : {
+        "displayDetailsView" : true,
+        "displayTable" : true,
+        "type" : "date",
+        "label" : "Last Update",
+        "width" : 110
+    },
+    "inputData" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Input Data"
+    },
+    "inputFile" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Input File"
+    },
+    "outputData" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Output Data"
+    },
+    "outputFile" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Output File"
+    },
+    "outputs" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Outputs"
+    },
+    "requiredMacros" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Req. Macros"
+    },
+    "fileLines" : {
+        "displayDetailsView" : true,
+        "displayTable" : true,
+        "type" : "string",
+        "label" : "Lines",
+        "width" : 60
+    },
+    "linkSource" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Source"
+    },
+    "linkSourceRaw" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Source (Raw)"
+    },
+    "linkDocu" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Documentation"
+    },
+    "exampleProgram" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Example Program"
+    },
+    "reference" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Reference(s)"
+    },
+    "linkSpecification" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Specifications"
+    },
+    "linkTarget" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Target"
+    },
+    "license" : {
+        "displayDetailsView" : true,
+        "type" : "String",
+        "label" : "License"
+    },
+    "parameters": {
+        "displayDetailsView" : true,
+        "type" : "object",
+        "label" : "Parameters"
+    }
+}

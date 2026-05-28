@@ -1,0 +1,44 @@
+{
+    "portal": {
+        "id": "portal",
+        "name": "Open Source Portal",
+        "logo": "glacon_logo.png",
+        "type": "Sponsorship",
+        "description": "The Open Source Portal for Clinical Study Evaluations is looking for sponsorship to enable maintenance and the inclusion of additional tools as well as further enhancements.",
+        "scope": "Build and Maintain Open Source Portal",
+        "linkProject":"https://www.glacon.eu/portal",
+        "plans": [
+            "Include additional available tools, macros and scripts",
+            "Interactivity – user rating and editing (quality checked)",
+            "Web-crawling for additional tools & provision through GitHub (SAS Support Pages, Papers, Forums, Lists)"
+        ],
+        "sponsorshipText": "You can support the open source portal as a sponsor. The sponsor logo will be available on the portal page and the sponsorship mentioned in all communications delivered by Katja Glass Consulting relating to the portal.",
+        "contactName": "Katja Glass Consulting",
+        "contactMail": "info@glacon.eu",
+        "contactSubject": "Portal Sponsorship",
+        "contactHomepage": "https://www.glacon.eu",
+        "images":["portal_01.png","portal_02.png","portal_03.png","portal_04.png"]
+    },
+    "video_sponsoring": {
+        "id": "video_sponsoring",
+        "name": "Sponsored Videos",
+        "logo": "glacon_logo.png",
+        "type": "Sponsorship",
+        "description": "Want to have videos available around clinical research and open source topics? For example training videos for specific open source tools can be sponsored like how to use the FDA Jumpstart scripts. A free and open training library can be created.",
+        "scope": [
+            "Specific topic videos can be created, for example",
+            "How to find and use open source macros?",
+            "How to use the FDA Jumpstart scripts and what can I expect from this?",
+            "How would I update open source, e.g. the Jumpstart scripts to have the results in a different format?",
+            "Creating a specific macro - how to do & how to use?"
+        ],
+        "linkProject":"https://youtube.com/channel/UCPUH5Hfw639qyS059LbGJ8Q",
+        "deliverables": "High quality videos will be delivered and made available in YouTube for anyone to watch!",
+        "sponsorshipText": "The project is looking for sponsors to enable the production of various videos.",
+        "contactName": "Katja Glass Consulting",
+        "contactMail": "info@glacon.eu",
+        "contactSubject": "Video Sponsorship",
+        "contactHomepage": "https://www.glacon.eu",
+        "images":["video_sponsors_2.jpg","video_sponsors_1.png","video_sponsors_3.png","video_sponsors_4.png"]
+    }
+}

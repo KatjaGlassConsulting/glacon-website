@@ -1,0 +1,187 @@
+{
+  "checked": 1381,
+  "broken": 100,
+  "unchecked": 0,
+  "by_file": {
+    "pages/contact.js": {
+      "999 - Bot-blocked (accessible in browser)": [
+        "https://www.linkedin.com/in/katja-glass-369022167"
+      ]
+    },
+    "pages/index.js": {
+      "404 - Not Found": [
+        "https://www.paypal.com/cgi-bin/webscr"
+      ]
+    },
+    "pages/info.js": {
+      "404 - Not Found": [
+        "https://www.paypal.com/cgi-bin/webscr"
+      ]
+    },
+    "pages/privacyPolicy.js": {
+      "connection_error - DNS failure or server unreachable": [
+        "https://“"
+      ]
+    },
+    "pages/rest.js": {
+      "403 - Forbidden (may be bot protection)": [
+        "https://clinicaltrials.gov/data-api/api"
+      ]
+    },
+    "public/articles/2018-12-14-OSGeneral.md": {
+      "403 - Forbidden (may be bot protection)": [
+        "https://sourceforge.net/projects/sasunit/"
+      ]
+    },
+    "public/articles/2022-03-01-licenses.md": {
+      "403 - Forbidden (may be bot protection)": [
+        "https://stackoverflow.com/legal/terms-of-service#licensing"
+      ]
+    },
+    "public/articles/2023-06-26-OSNews.md": {
+      "404 - Not Found": [
+        "https://pharmaverse.github.io/admiralophtha/main/"
+      ]
+    },
+    "resources/learnings.json": {
+      "404 - Not Found": [
+        "https://www.r-consortium.org/webinars"
+      ]
+    },
+    "resources/links.json": {
+      "404 - Not Found": [
+        "https://podcasts.apple.com/us/podcast/where-technology-meets-science/id1795400188",
+        "https://transformationintrials.buzzsprout.com/"
+      ]
+    },
+    "resources/overview_tools.json": {
+      "403 - Forbidden (may be bot protection)": [
+        "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12697",
+        "https://sourceforge.net/p/fhirloinc2sdtm/",
+        "https://sourceforge.net/p/fhirloinc2sdtm/code/ci/master/tree/",
+        "https://sourceforge.net/p/fhirloinc2sdtm/wiki/Home/",
+        "https://sourceforge.net/p/sasunit/code/HEAD/tree/trunk/",
+        "https://sourceforge.net/p/sasunit/wiki/SASUnit%20Documentation%20Home/",
+        "https://sourceforge.net/p/smart-submission-dataset-viewe/code/ci/master/tree/",
+        "https://sourceforge.net/projects/sasunit/",
+        "https://sourceforge.net/projects/smart-submission-dataset-viewe/",
+        "https://sourceforge.net/projects/smart-submission-dataset-viewe/files/Documentation/"
+      ],
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/yabwon/SAS_PACKAGES/blob/main/SPF/SPFinit.md"
+      ]
+    },
+    "resources/scripts_cdiscpilotrep.json": {
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/atorus-research/CDISC_pilot_replication/blob/master/programs/t-14-6.02.R"
+      ]
+    },
+    "resources/scripts_chris_sas_macros.json": {
+      "404 - Not Found": [
+        "http://support.sas.com/kb/24/808.html"
+      ],
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/chris-swenson/sasmacros/blob/master/compcon.sas",
+        "https://github.com/chris-swenson/sasmacros/blob/master/ifput.sas",
+        "https://github.com/chris-swenson/sasmacros/blob/master/intolist.sas"
+      ]
+    },
+    "resources/scripts_sasjs_core.json": {
+      "403 - Forbidden (may be bot protection)": [
+        "https://support.selerity.com.au/hc/en-us/articles/223345708-Tip-SAS-and-Base64"
+      ],
+      "404 - Not Found": [
+        "https://developer.sas.com/reference/auth/#register",
+        "https://github.com/sasjs/core/tree/main/base/mp_mdtablewrite.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_getaccesstoken.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_getapptoken.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_getrefreshtoken.sas",
+        "https://proc-x.com/2019/01/authentication-to-sas-viya-a-couple-of-approaches",
+        "https://raw.githubusercontent.com/sasjs/core/main/base/mp_mdtablewrite.sas",
+        "https://raw.githubusercontent.com/sasjs/core/main/viya/mv_getaccesstoken.sas",
+        "https://raw.githubusercontent.com/sasjs/core/main/viya/mv_getapptoken.sas",
+        "https://raw.githubusercontent.com/sasjs/core/main/viya/mv_getrefreshtoken.sas",
+        "https://www.tablesgenerator.com/markdown_tables"
+      ],
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/sasjs/core/tree/main/base/mf_getkeyvalue.sas",
+        "https://github.com/sasjs/core/tree/main/base/mf_getschema.sas",
+        "https://github.com/sasjs/core/tree/main/base/mf_getvarcount.sas",
+        "https://github.com/sasjs/core/tree/main/base/mf_wordsinstr1butnotstr2.sas",
+        "https://github.com/sasjs/core/tree/main/base/mf_writefile.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_assertcols.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_searchcols.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_searchdata.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_sortinplace.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_storediffs.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_tree.sas",
+        "https://github.com/sasjs/core/tree/main/base/mp_zip.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_assignlib.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_createapplication.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_createdataset.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_createdocument.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_deletestp.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_getgroups.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_getlibmetadiffs.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_getpublictypes.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_gettables.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_getusers.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_tree.sas",
+        "https://github.com/sasjs/core/tree/main/meta/mm_webout.sas",
+        "https://github.com/sasjs/core/tree/main/metax/mmx_spkexport.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mfv_existsashdat.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_createfolder.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_createjob.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_deleteviyafolder.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_getjobcode.sas",
+        "https://github.com/sasjs/core/tree/main/viya/mv_getusergroups.sas"
+      ],
+      "999 - Bot-blocked (accessible in browser)": [
+        "https://www.linkedin.com/in/andrea-defronzo-b1a47460",
+        "https://www.linkedin.com/in/louisehadden/"
+      ]
+    },
+    "resources/scripts_scottbass.json": {
+      "404 - Not Found": [
+        "https://github.com/scottbass/SAS/blob/master/Macro/subset_data",
+        "https://raw.githubusercontent.com/scottbass/SAS/master/Macro/subset_data"
+      ],
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/scottbass/SAS/blob/master/Macro/IsNum.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/age.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/bench.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/count_words.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/create_format.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/execute_macro.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_rldx.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_saphari.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_sas.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_spss.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_stata.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/export_xlsx.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/get_data_attr.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/get_dups.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/max_decimals.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/optload.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/pagexofy.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/queryActiveDirectory.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/reduce_pixel.sas",
+        "https://github.com/scottbass/SAS/blob/master/Macro/symget.sas"
+      ]
+    },
+    "resources/scripts_whitepaper.json": {
+      "404 - Not Found": [
+        "http://www.phusewiki.org/wiki/images/1/13/PhUSE_WhitePaper_OutliersShifts_DRAFT_BroadReview.docx",
+        "http://www.phusewiki.org/wiki/images/4/48/CSS_WhitePaper_CentralTendency_v1.0.pdf",
+        "http://www.phusewiki.org/wiki/images/8/8e/CSS_WhitePaper_DemoDispMed_draft3.docx",
+        "http://www.phusewiki.org/wiki/images/e/ed/PhUSE_CSS_WhitePaper_PK_final_25March2014.pdf"
+      ],
+      "429 - Too Many Requests (rate-limited)": [
+        "https://github.com/phuse-org/phuse-scripts/blob/master/whitepapers/scriptathons/central/Box_Plot_Baseline.sas",
+        "https://github.com/phuse-org/phuse-scripts/blob/master/whitepapers/scriptathons/central/mean_time.sas",
+        "https://github.com/phuse-org/phuse-scripts/blob/master/whitepapers/scriptathons/pk/pk_overlay_conc.sas"
+      ]
+    }
+  }
+}

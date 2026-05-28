@@ -1,0 +1,78 @@
+[
+  {
+    "title": "General",
+    "videos": [
+      {
+        "title": "Open Source Portal Overview (7 min)",
+        "videoId": "K-jg6aHBN6c",
+        "videoTitle": "Portal Overview"
+      },
+      {
+        "title": "General Introduction (7 min)",
+        "videoId": "af321V1XkTI",
+        "videoTitle": "General Introduction"
+      },
+      {
+        "title": "Open Source Licenses (30 min)", 
+        "videoId": "6CtoH2yZb-I",
+        "videoTitle": "Open Source Licenses - Practicalities and the Legal Side"
+      },
+      {
+        "title": "Novo Nordisk's Journey to an R based FDA Submission (1h 13)", 
+        "videoId": "t33dS17QHuA",
+        "videoTitle": "Novo Nordisk's Journey to an R based FDA Submission"
+      },
+      {
+        "title": "Roche's End-to-End R Journey to Submission (1h)", 
+        "videoId": "BlJNILSoZlM",
+        "videoTitle": "Roche's End-to-End R Journey to Submission"
+      },
+      {
+        "title": "Introduction to the Pharmaverse (28 min)", 
+        "videoId": "nHbDmxjVqRM",
+        "videoTitle": "Introduction to the Pharmaverse"
+      },
+      {
+        "title": "Solutions, Challenges and Visions (17 min)", 
+        "videoId": "MwwCnVvViPY",
+        "videoTitle": "Solutions, Challenges and Visions"
+      },
+      {
+        "title": "Clinical Data Science - Going the Open Source Route (30 min)", 
+        "videoId": "39HS0O0ZnLs",
+        "videoTitle": "Clinical Data Science - Going the Open Source Route"
+      },
+      {
+        "title": "FAIR for Source Code - Digging the Gold or Programming (28 min)", 
+        "videoId": "87o_NeCrw4o",
+        "videoTitle": "FAIR for Source Code - Digging the Gold or Programming"
+      }
+    ]
+  },
+  {
+    "title": "Specific",
+    "videos": [
+      {
+        "title": "Using an Open Source SAS Macro - How to do? (33 min)", 
+        "videoId": "48cLKNqVQs4",
+        "videoTitle": "Using an Open Source SAS Macro - How to do?"
+      },
+      {
+        "title": "Creating ARM Using Visual Define XML Editor (30 min)", 
+        "videoId": "PIxXMsBxzws",
+        "videoTitle": "Creating ARM Using Visual Define XML Editor"
+      },
+      {
+        "title": "OpenStudyBuilder - Demonstration of Application (28 min)", 
+        "videoId": "dL5CY0BwfEs",
+        "videoTitle": "OpenStudyBuilder - Demonstration of Application"
+      },
+      {
+        "title": "Using {riskassessment} for R Package Validation", 
+        "videoId": "L0ZZHPh2ec4",
+        "videoTitle": "Using {riskassessment} for R Package Validation"
+      }
+    ]
+  }
+]
+                            

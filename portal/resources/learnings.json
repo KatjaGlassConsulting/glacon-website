@@ -1,0 +1,97 @@
+{
+  "r_adoption_series" : {
+    "id" : "r_adoption_series",
+    "name": "R Adoption Series",
+    "description": "This is a series of webinars focused on the adoption of R. Each session will include a case study and often include panels or discussions to enable those starting their journey to ask questions.",
+    "quickDescription": "Webinars about shifting to R",
+    "focus": "R",
+    "link": "https://r-consortium.org/webinars/webinars.html",
+    "linkAdditional": "https://www.youtube.com/playlist?list=PL4IzsxWztPdkTYNmISc5Rd1kcBB6LQFgG",
+    "linkAdditionalDescription": "YouTube Playlist",
+    "authors" : "R Consortium",
+    "audience": "intermediate",
+    "image": "r_adoption_series.png"
+  },
+  "dataScienceCoursera" : {
+    "id" : "dataScienceCoursera",
+    "name": "Making Data Science Work for Clinical Reporting",
+    "description": "This course is aimed to demonstate how principles and methods from data science can be applied in clinical reporting. By the end of the course, learners will understand what requirements there are in reporting clinical trials, and how they impact on how data science is used. The learner will see how they can work efficiently and effectively while still ensuring that they meet the needed standards.",
+    "quickDescription": "Coursera course (~11h) - Introduction to clinical reporting",
+    "remark": "This is a free course. Only the certicicate requires a fee.",
+    "focus": "Clinical Reporting",
+    "link": "https://www.coursera.org/learn/making-data-science-work-for-clinical-reporting",
+    "authors" : "Genentech/Roche",
+    "audience": "beginner",
+    "image": "data_science_coursera.png"
+  },
+  "handsOnR" : {
+    "id" : "handsOnR",
+    "name": "Hands On Clinical Reporting Using R",
+    "description": "The aim of this course is to introduce learners to open-source R packages that can be used to perform clinical data reporting tasks. The main emphasis of the course will be the clinical data flow from raw data (both CRF and non-CRF) to SDTM to ADaM to final outputs. While several open-source tools to complete these tasks will be introduced, the objective of this course is not to become an expert in any of these tools but rather to introduce participants to the broader concepts behind these tasks. That way the tools simply serve as an example of how the underlying concepts could be put into action in code.",
+    "quickDescription": "Coursera course (~19h) - Clinical Reporting in R",
+    "focus": "Clinical Reporting",
+    "link": "https://www.coursera.org/learn/hands-on-clinical-reporting-using-r",
+    "authors" : "Genentech/Roche",
+    "audience": "beginner",
+    "image": "hands_on_r.png"
+  },
+  "RforSASProgrammers" : {
+    "id" : "RforSASProgrammers",
+    "name": "Introduction to R for SAS Programmers (Pre-{admiral} Hackathon Workshop)",
+    "description": "This introduction covers various useful topics to learn how to develop programs in R in the scope of what is needed for deriving ADAM datasets from SDTM datasets using the admiral package.",
+    "quickDescription": "Hands-on experiences for programming in R",
+    "focus": "R",
+    "link": "https://www.cdisc.org/events/webinar/pre-admiral-hackathon-workshop-introduction-r-sas-programmers",
+    "linkAdditional": "https://pharmaverse.github.io/intro-to-r-for-sas-programmers-workshop/",
+    "linkAdditionalDescription": "Workshop material / steps",
+    "authors" : "admiral team",
+    "audience": ["beginner", "intermediate"],
+    "image": "r_for_sas_programmers.png"
+  },
+  "R4CSR" : {
+    "id" : "R4CSR",
+    "name": "R for Clinical Study Reports and Submission",
+    "description": "Welcome to R for clinical study reports and submission. In this book, you will learn how to use R to prepare a CSR and how to submit it to regulatory agencies.",
+    "quickDescription": "R programming for CSR (book)",
+    "focus": "R",
+    "link": "https://r4csr.org/index.html",
+    "linkAdditional": "https://github.com/elong0527/r4csr",
+    "linkAdditionalDescription": "GitHub repository",
+    "authors" : "individuals",
+    "audience": ["beginner", "intermediate"],
+    "image": "r4csr.png"
+  },
+  "LexJansen" : {
+    "id" : "LexJansen",
+    "name": "Conference Proceedings (LexJansen)",
+    "description": "This is a very comprehensive collection of all SAS (and R) Conference Proceedings (1976 - present) ... and more. Papers, presentations and partially also videos from AS Global Forum, SUGI, PharmaSUG, PhUSE, NESUG, SESUG, WUSS, MWSUG, PNWSUG, SCSUG, SEUGI and many more are available.",
+    "quickDescription": "Conference proceedings - papers and presentations",
+    "focus": "Anything",
+    "link": "https://www.lexjansen.com/",
+    "authors" : "various",
+    "audience": ["beginner", "intermediate", "expert"],
+    "image": "lexjansen.png"
+  },
+  "PhuseEducation" : {
+    "id" : "PhuseEducation",
+    "name": "PHUSE Education",
+    "description": "The vision of PHUSE Education is to create a PHUSE roadmap to education, which covers the broad bandwidth of knowledge a clinical data scientist needs to have to be successful in their job. This covers both hard and soft skills, as well as technological understanding and, most importantly, a thorough domain understanding.",
+    "quickDescription": "Brief explanation of various aspects for clinical study evaluations",
+    "focus": "Clinical Development & Reporting",
+    "link": "https://phuse.global/Education",
+    "authors" : "PHUSE",
+    "audience": ["beginner"],
+    "image": "phuse_education.png"
+  },
+  "OnBiostatistics" : {
+    "id" : "OnBiostatistics",
+    "name": "On Biostatistics and Clinical Trials",
+    "description": "Blog with many articles about various aspects for clinical trial evaluations",
+    "quickDescription": "Biostatistics Blog",
+    "focus": "Statistics",
+    "link": "https://onbiostatistics.blogspot.com/",
+    "authors" : "Dr. Deng",
+    "audience": ["intermediate"],
+    "image": "on_biostatistics.png"
+  }
+}

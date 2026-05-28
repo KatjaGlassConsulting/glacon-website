@@ -1,0 +1,73 @@
+{
+    "id" : {
+        "displayDetailsView" : false,
+        "type" : "string"
+    },    
+    "name" : {
+        "displayDetailsView" : false,
+        "type" : "string",
+        "label" : "Name"
+    },
+    "logo" : {
+        "displayDetailsView" : false,
+        "type" : "image",
+        "label" : "Logo"
+    },
+    "description" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Description"
+    },
+    "scope" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Scope"
+    },
+    "type" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Type"
+    },
+    "plans" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Plans"
+    },
+    "sponsorshipText" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Sponsorship"
+    },
+    "deliverables" : {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Deliverables"
+    },
+    "linkProject" : {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Project"
+    },
+    "contactName" : {
+        "displayDetailsView" : false,
+        "type" : "string",
+        "label" : "Contact"
+    },
+    "contactMail" : {
+        "displayDetailsView" : false,
+        "type" : "mail",
+        "label" : "Scope"
+    },
+    "contactHomepage" : {
+        "displayDetailsView" : false,
+        "type" : "link",
+        "label" : "Scope"
+    },
+    "images": {
+        "displayDetailsView" : false,
+        "type" : "image",
+        "label" : "Images"
+    }
+}

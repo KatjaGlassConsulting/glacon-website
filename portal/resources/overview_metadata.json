@@ -1,0 +1,217 @@
+{
+    "id" : {
+        "displayDetailsView" : false,
+        "type" : "string"
+    },
+    "groupid" : {
+        "displayDetailsView" : false,
+        "type" : "string"
+    },
+    "name" : {
+        "displayTable" : true,
+        "filter": "text",
+        "displayDetailsView" : false,
+        "type" : "string",
+        "label" : "Name"
+    },
+    "logo" : {
+        "displayDetailsView" : false,
+        "type" : "image",
+        "label" : "Logo"
+    },
+    "description" : {
+        "displayTable" : true,
+        "filter": "text",
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Description",
+        "widthPerc" : 40
+    },
+    "outstanding" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Outstanding"
+    },
+    "thinkAbouts" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Think Abouts"
+    },
+    "commercialExtras" : {
+        "displayDetailsView" : false,
+        "displayDetailsText" : true,
+        "type" : "string",
+        "label" : "Commercial Extras"
+    },    
+    "type": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Type"
+    },    
+    "language": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "boolean",
+        "label" : "Language"
+    },    
+    "opensource": {
+        "displayDetailsView" : true,
+        "type" : "boolean",
+        "label" : "Open Source"
+    },    
+    "license": {
+        "displayTable" : true,
+        "filter": "text",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "License"
+    },    
+    "lastUpdateDate": {
+        "displayTable" : true,
+        "filter": "text",
+        "displayDetailsView" : true,
+        "type" : "date",
+        "label" : "Update Date",
+        "width" : 120
+    },    
+    "portalInclusionDate": {
+        "displayDetailsView" : false,
+        "type" : "date",
+        "label" : "Portal Inclusion Date"
+    },    
+    "portalUpdateDate": {
+        "displayDetailsView" : false,
+        "type" : "date",
+        "label" : "Portal Update Date"
+    },    
+    "linkGithubNY": {
+        "displayDetailsView" : false,
+        "type" : "boolean",
+        "label" : "Source Link to GitHub?"
+    },    
+    "linkSource": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Source"
+    },    
+    "linkDocumentation": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Documentation"
+    },    
+    "linkHomepage": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Homepage"
+    },    
+    "linkNewsletter": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Newsletter"
+    },    
+    "linkVideo": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Video(s)"
+    },    
+    "linkCompany": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link Company"
+    },        
+    "linkLicense": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Link License"
+    },
+    "documentation": {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Doc Comment"
+    },
+    "authorType": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Author Type"
+    },
+    "authors": {
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Author(s)"
+    },
+    "areaUsers": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Area (Users)"
+    },
+    "areaWorkfield": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Area (Workspace)"
+    },
+    "size": {
+        "displayTable" : true,
+        "filter": "dropdown",
+        "displayDetailsView" : true,
+        "type" : "string",
+        "label" : "Size",
+        "width" : 90
+    },
+    "image": {
+        "displayDetailsView" : false,
+        "type" : "image",
+        "label" : "Image"
+    },
+    "images": {
+        "displayDetailsView" : false,
+        "type" : "image",
+        "label" : "Images"
+    },
+    "relevance": {
+        "displayDetailsView" : false,
+        "type" : "int",
+        "label" : "Relevance"
+    },
+    "linkPaper": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Paper(s)"
+    },
+    "linkPoster": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Poster(s)"
+    },
+    "linkPresentation": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Presentation(s)"
+    },
+    "linkDemonstration": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Demonstration"
+    },
+    "linkVignette": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Vignette(s)"
+    },
+    "linkWorkshop": {
+        "displayDetailsView" : true,
+        "type" : "link",
+        "label" : "Workshop"
+    }
+}

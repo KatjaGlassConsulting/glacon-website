@@ -1,0 +1,95 @@
+.tableHeader {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    text-transform: none;
+    font-weight: normal;
+}
+
+.tableFullWidth {
+    width: 100%;
+    table-layout: fixed;
+}
+
+.arrowWidth {
+    width: 10px
+}
+
+.cursorSetColResize {
+    cursor: col-resize
+}
+
+.cursorSort {
+    cursor: pointer;
+}
+
+.text {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+} 
+
+.headerCenter {
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin: 0 auto; 
+    width: 80%; 
+    text-align:center
+}
+
+.headerRight {
+    float: right;
+}
+
+.headerFrame {
+    padding: 0 50px;
+}
+
+.tableHeaderRow2 .field{
+    display: block !important;
+}
+
+.tableHeaderRow2{
+    height:43px;
+    text-transform: none;
+    font-weight: normal;
+}
+
+.rowStyleAlternate{
+    background-color: #f0edf8
+}
+
+.noContent{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: x-large;
+}
+
+.ReactVirtualized__Table__headerRow {
+    overflow: visible !important;
+}
+
+.overflowVisible{
+    overflow: visible !important;
+}
+
+.headerColumn {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding: 0 0 0 0 !important;
+} 
+
+.rowColumn {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    padding: 0 10px 0 10px !important;
+}
+
+.dropdownStyle {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+}

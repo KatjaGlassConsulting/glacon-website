@@ -1,0 +1,17 @@
+https://nextjs.org/docs/basic-features/data-fetching
+
+
+
+
+Diverse Makro collections:
+// https://github.com/Jiangtang/Programming-SAS/blob/master/UserMacros/SASMacroCollection.txt
+
+
+https://www.devenezia.com/downloads/sas/macros/
+
+no license:
+http://bioinformaticstools.mayo.edu
+
+
+set PUBLIC_URL=https://localhost/glacon/homepage-react/build/&&npm run build
+set PUBLIC_URL=E:\xampp\htdocs\glacon\homepage-react\build

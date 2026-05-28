@@ -1,0 +1,99 @@
+{
+    "OS06": {
+        "type" : "OS General",
+        "title" : "CDISC COSA",
+        "url" : "https://cosa.cdisc.org/",
+        "description" : "The CDISC Open Source Alliance Homepage (COSA)"
+    },
+    "OS01": {
+        "type" : "OS General",
+        "title" : "Open source Guide",
+        "url" : "https://opensource.guide",
+        "description" : "Various guides about open source topics in general"
+    },
+    "OS02": {
+        "type" : "OS General",
+        "title" : "The Legal Side of Open Source",
+        "url" : "https://opensource.guide/legal/",
+        "description" : "A legal overview"
+    },
+    "OS03": {
+        "type" : "OS General",
+        "title" : "Choose a license",
+        "url" : "https://choosealicense.com/licenses/",
+        "description" : "Overview of Open Source Licenses"
+    },
+    "PC01": {
+        "type" : "Podcast",
+        "title" : "Verisian Community Podcast",
+        "url" : "https://www.verisian.com/community",
+        "description" : "Interviews and discussions with experts in clinical trials for clinical reporting, submission and review"
+    },
+    "PC02": {
+        "type" : "Podcast",
+        "title" : "Where Technology Meets Science",
+        "url" : "https://www.listennotes.com/podcasts/where-technology-meets-science-appsilon-RqTIw_YuQUC/",
+        "description" : "Interviews and discussions focused on how technology can accelerate data science processes, particularly within life sciences and biopharmaceutical companies."
+    },
+    "PC03": {
+        "type" : "Podcast",
+        "title" : "Transformation in Trials",
+        "url" : "https://www.youtube.com/playlist?list=PLp6tJyzBUmxfbHuchTNwzkHZTaExctHFE",
+        "description" : "Interviews and discussions about transformation in clinical trials (broad range)"
+    },
+    "PC04": {
+        "type" : "Podcast",
+        "title" : "Biostatistics Podcast (till 2024)",
+        "url" : "https://biostatisticspodcast.github.io/",
+        "description" : "A podcast exploring biostatistics through expert insights, real-world applications, and interdisciplinary discussions."
+    },    
+    "R02": {
+        "type" : "R",
+        "title" : "pharmaverse.org",
+        "url" : "https://pharmaverse.org/",
+        "description" : "Pharma stack of open source R packages to enable clinical reporting"
+    },   
+    "R05": {
+        "type" : "R",
+        "title" : "R sassy",
+        "url" : "https://r-sassy.org/",
+        "description" : "Package collection for R designed for SAS programmers"
+    },
+    "R01": {
+        "type" : "R",
+        "title" : "R Validation Hub",
+        "url" : "https://www.pharmar.org/",
+        "description" : "R Validation Hub is a collaboration to support the adoption of R within a biopharmaceutical regulatory setting"
+    },
+    "R03": {
+      "type" : "R",
+      "title" : "The Epidemiologist R Handbook",
+      "url" : "https://www.epirhandbook.com/en/index.html",
+      "description" : "Excellent source for R evaluations"
+    },
+    "R04": {
+        "type" : "R",
+        "title" : "openpharma.github.io",
+        "url" : "https://openpharma.github.io/",
+        "description" : "R Package overview related to pharma"
+    },
+    "R07": {
+        "type" : "R",
+        "title" : "R Submissions Working Group",
+        "url" : "https://rconsortium.github.io/submissions-wg/",
+        "description" : "Homepage of the R Submissions Working Group"
+    },
+    "OS05": {
+        "type" : "OS General",
+        "title" : "Wikipedia - Business Concepts of Open Source",
+        "url" : "https://en.wikipedia.org/wiki/Business_models_for_open-source_software",
+        "description" : "Overview about various business concepts for open source projects"
+    },    
+    "OT01": {
+        "type" : "Other",
+        "title" : "PHUSE Open Data Repository",
+        "url" : "https://github.com/phuse-org/PODR",
+        "description" : "Interface to available pharma datasets (PODR is provided to PHUSE members for non-commercial use only)"
+    }
+    
+}

@@ -1,0 +1,2770 @@
+{
+    "OpenStudyBuilder": {
+        "id": "OpenStudyBuilder",
+        "groupID": "OpenStudyBuilder",
+        "name": "OpenStudyBuilder",
+        "openSource": true,
+        "type": "Tool",
+        "description": "OpenStudyBuilder - open-source metadata and study definition repository with a graph database, a user interface, APIs and more from NovoNordisk.",
+        "language": [
+            "Python",
+            "Cypher",
+            "Web"
+        ],
+        "outstanding": "This tool aims for the end-to-end vision of the CDISC 360\u00c2\u00b0 project. Novo Nordisk has decided to create an own MDR and made it available as open-source to enable much better collaborations.",
+        "thinkAbouts": "This MVP does come along with much functionality. Novo Nordisk is looking for collaborations to enable our pharma end-to-end vision.",
+        "lastUpdateDate": "2026-03-18",
+        "portalInclusionDate": "2022-10-24",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/NovoNordisk-OpenSource/openstudybuilder-solution",
+        "linkDocumentation": "https://openstudybuilder.com",
+        "linkNewsletter": "https://www.linkedin.com/newsletters/openstudybuilder-6990328054849916928/",
+        "license": [
+            "MIT",
+            "GPL-3"
+        ],
+        "documentation": "Detailed documentation on the project homepage, the repository and a documentation portal",
+        "authorType": "collaboration",
+        "authors": [
+            "NovoNordisk",
+            "EvidentIQ",
+            "Neo4j",
+            "many people"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG",
+            "DM",
+            "Various"
+        ],
+        "areaWorkfield": [
+            "CDISC",
+            "MDR"
+        ],
+        "size": "large",
+        "relevance": 1,
+        "image": "openstudybuilder_01.png",
+        "images": [
+            "openstudybuilder_01.png",
+            "openstudybuilder_02.png",
+            "openstudybuilder_03.png",
+            "openstudybuilder_04.png",
+            "openstudybuilder_05.png",
+            "openstudybuilder_06.png",
+            "openstudybuilder_07.png",
+            "openstudybuilder_08.png",
+            "openstudybuilder_09.png"
+        ],
+        "logo": "openstudybuilder_logo.png",
+        "linkPresentation": [
+            "https://novo-nordisk.gitlab.io/nn-public/openstudybuilder/project-description/presentations/2022-10-13-OpenStudyBuilder-PHUSE-SDE-Copenhagen.pdf",
+            "https://novo-nordisk.gitlab.io/nn-public/openstudybuilder/project-description/presentations/2022-09-08-GraphSummitCopenhagen_StudyBuilder.pdf",
+            "https://novo-nordisk.gitlab.io/nn-public/openstudybuilder/project-description/presentations/2022-06-21-PHUSE%20SDE%20Basel.pdf",
+            "https://novo-nordisk.gitlab.io/nn-public/openstudybuilder/project-description/presentations/2022-06-06-OpenStudyBuilder_GraphConnect.pdf",
+            ""
+        ],
+        "linkVideo": [
+            "https://youtu.be/SB3AFJJQj-c",
+            "https://youtu.be/rUOIwqVWGII",
+            "https://youtu.be/gGYkZGjWprs"
+        ]
+    },
+    "admiral": {
+        "id": "admiral",
+        "groupID": "admiral",
+        "name": "admiral",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "admiral - ADaM in R Asset Library - is a R Package to map SDTM to Adam. This kicked off a huge collaboration starting by Roche and GSK, having many additional collaborators and related packages available.",
+        "language": "R",
+        "outstanding": "Two big pharma companies did a huge collaboration to create this open source project, by now more than 20 pharma companies are involved for implementation and testing",
+        "thinkAbouts": "We need more collaboration projects to enable more open source solutions resulting in harmoized understanding, processes and tools",
+        "lastUpdateDate": "2026-03-26",
+        "portalInclusionDate": "2021-12-10",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/pharmaverse/admiral",
+        "linkDocumentation": "https://pharmaverse.github.io/admiral/index.html",
+        "license": "Apache License V2",
+        "documentation": "Detailed references and examples are available",
+        "authorType": "collaboration",
+        "authors": [
+            "Pharmaverse",
+            "Roche",
+            "GSK"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 1,
+        "image": "admiral_01.png",
+        "images": [
+            "admiral_01.png",
+            "admiral_02.png",
+            "admiral_03.png",
+            "admiral_04.png",
+            "admiral_05.png"
+        ],
+        "logo": "admiral_logo.png",
+        "linkPresentation": [
+            "https://github.com/rinpharma/2021_presentations/blob/main/talks_folder/2021-Neitmann-Admiral.pptx",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PAP_OS05.pdf",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PAP_PP01.pdf",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PAP_SM06.pdf"
+        ],
+        "linkVideo": [
+            "https://www.youtube.com/playlist?list=PLn-mqs_tEh86kA-UzWHeVZWIQNm6qvr_z",
+            "https://www.youtube.com/watch?v=N7Bw8c3D5fU"
+        ]
+    },
+    "teal": {
+        "id": "teal",
+        "groupID": null,
+        "name": "teal",
+        "openSource": true,
+        "type": "Tool",
+        "description": "An R-Shiny Framework to Unlock the Power of Interactive Data Exploration - plug and play single elements to build a Shiny Application",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "outstanding": "This huge tool has been initially developed by Roche and has been made available as open source.",
+        "lastUpdateDate": "2026-03-22",
+        "portalInclusionDate": "2024-04-16",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/insightsengineering/teal",
+        "linkDocumentation": "https://insightsengineering.github.io/teal/latest-tag/",
+        "license": "Apache License V2",
+        "documentation": "Detailed references and examples are available",
+        "authorType": "collaboration",
+        "authors": [
+            "Pharmaverse",
+            "Roche"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 1,
+        "image": "teal_01.png",
+        "images": [
+            "teal_01.png",
+            "teal_02.png",
+            "teal_03.png",
+            "teal_04.png",
+            "teal_05.png"
+        ],
+        "logo": "teal_logo.png",
+        "linkPresentation": [
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PAP_DV04.pdf",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PAP_ET10.pdf",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PAP_OS16.pdf",
+            "https://www.lexjansen.com/phuse-us/2020/as/AS01.pdf"
+        ],
+        "linkVideo": [
+            "https://www.youtube.com/playlist?list=PLn-mqs_tEh84iIpjLLC17YBooIxjrUwCQ",
+            "https://www.youtube.com/watch?v=N8ZamECICSI"
+        ],
+        "linkDemonstration": [
+            "https://posit.cloud/spaces/340990/join?access_code=M52ibtFP2ASLLL1MItA-dThXpPzJvRqnxdNOgejA"
+        ]
+    },
+    "RPact": {
+        "id": "RPact",
+        "groupID": null,
+        "name": "RPact",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The R package RPACT is a statistical program module, characterized as a comprehensive, validated software R package, that enables the simulation and analysis of parallel group designs with continuous, binary, and survival endpoint. RPACT can be downloaded per CRAN and will be available as open-source under LGPL3.",
+        "language": "R",
+        "outstanding": "Companies created a pact to fund an open source tool together which is made available for all.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-04",
+        "portalInclusionDate": "2019-05-17",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": false,
+        "linkSource": "https://cran.r-project.org/web/packages/rpact/",
+        "linkDocumentation": "https://cran.r-project.org/web/packages/rpact/rpact.pdf",
+        "linkHomepage": "https://www.rpact.org",
+        "license": "GPL-3",
+        "commercialExtras": "Additional documentation, training and other services are available for members.",
+        "documentation": "Basic for free, Enhanced for Membership",
+        "authorType": "company",
+        "authors": "RPact",
+        "areaUsers": "STAT",
+        "areaWorkfield": "Statistics",
+        "size": "large",
+        "relevance": 3,
+        "image": "rpact_screen.png",
+        "images": [
+            "rpact_screen.png"
+        ],
+        "logo": "rpact_logo.png",
+        "linkVignette": {
+            "Getting started with rpact": "https://cran.r-project.org/web/packages/rpact/vignettes/rpact_getting_started.html"
+        }
+    },
+    "VisualDefineEditor": {
+        "id": "VisualDefineEditor",
+        "groupID": null,
+        "name": "Visual Define-XML Editor",
+        "openSource": true,
+        "type": "Tool",
+        "description": "A cross-platform desktop application which allows to edit and review Define-XML files in a convenient and efficient way. It fully supports CDISC Define-XML v2.0 and ARM 1.0 standards.",
+        "language": [
+            "Web"
+        ],
+        "outstanding": "This is an excellent tool created by highly motivated persons having fun.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2024-10-08",
+        "portalInclusionDate": "2019-05-24",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/defineEditor/editor",
+        "linkHomepage": "http://defineeditor.com",
+        "license": "AGPL-3.0",
+        "documentation": "The tool is very intuitive, example usage available as video on the homepage. Some documentation is integrated in the tool.",
+        "authorType": "individual",
+        "authors": [
+            "Dmitry Kolosov",
+            "Sergei Krivtcov"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Define",
+        "size": "large",
+        "relevance": 3,
+        "logo": "visual_define_logo.png",
+        "image": "visual_define_01.png",
+        "images": [
+            "visual_define_01.png",
+            "visual_define_02.png",
+            "visual_define_03.png",
+            "visual_define_04.png",
+            "visual_define_05.png"
+        ]
+    },
+    "sdtm.oak": {
+        "id": "sdtm.oak",
+        "name": "sdtm.oak",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "A flexible R package enabling CDISC SDTM dataset creation through reusable algorithms and modular programming.",
+        "language": "R",
+        "outstanding": "This is a big collaboration project which should enable our industry to support standardized programming",
+        "lastUpdateDate": "2025-06-24",
+        "portalInclusionDate": "2025-03-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/pharmaverse/sdtm.oak",
+        "linkDocumentation": [
+            "https://pharmaverse.github.io/sdtm.oak/",
+            "https://www.cdisc.org/oak"
+        ],
+        "license": "Apache License V2",
+        "documentation": "Detailed references and articles are available",
+        "authorType": "collaboration",
+        "authors": [
+            "COSA",
+            "Pharmaverse",
+            "Various Pharma Companies"
+        ],
+        "areaUsers": [
+            "DM",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 1,
+        "image": "oak_01.png",
+        "images": [
+            "oak_01.png",
+            "oak_02.jpg",
+            "oak_03.jpg",
+            "oak_04.png",
+            "oak_05.png"
+        ],
+        "logo": "oak_logo.svg",
+        "linkPresentation": [
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/EU/Birmingham/PRE_SI02.pdf",
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/US/Bethesda/PRE_OS09.pdf",
+            "https://www.cdisc.org/sites/default/files/2023-10/2023_us_interchange_-_yogesh_and_ram_cosa_sessionfinal.pdf"
+        ],
+        "linkPaper": [
+            "https://www.lexjansen.com/phuse-us/2024/os/PAP_OS09.pdf",
+            "https://www.lexjansen.com/phuse/2023/si/PAP_SI02.pdf"
+        ],
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=9OQO--f9r1c",
+            "https://www.cdisc.org/events/webinar/cdisc-open-source-alliance-quarterly-spotlight-q2"
+        ]
+    },
+    "DaVinci": {
+        "id": "DaVinci",
+        "name": "DaVinci",
+        "openSource": true,
+        "type": "Tool",
+        "description": "DaVinci - Dynamic Visualization for Clinical Insights - provides tools to review, aggregate and visualize data - provides individual modules",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "outstanding": "This is a very comprehensive library of modules and can even be enhanced by using teal modules",
+        "lastUpdateDate": "2025-03-07",
+        "portalInclusionDate": "2026-03-24",
+        "linkGithubNY": false,
+        "linkSource": "https://github.com/orgs/Boehringer-Ingelheim/repositories?q=dv.",
+        "linkDocumentation": "https://boehringer-ingelheim.github.io/davinci/",
+        "license": "Apache License V2",
+        "documentation": "Getting started, gallery and documentation available",
+        "authorType": "company",
+        "authors": [
+            "B\u00c3\u00b6hringer Ingelheim"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 1,
+        "image": "davinci_01.png",
+        "images": [
+            "davinci_01.png",
+            "davinci_02.png",
+            "davinci_03.png",
+            "davinci_04.png",
+            "davinci_05.png",
+            "davinci_06.png",
+            "davinci_07.png"
+        ],
+        "linkPresentation": [
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_DV06.pdf"
+        ],
+        "linkPaper": [
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_DV06.pdf",
+            "https://www.lexjansen.com/pharmasug/2024/DV/PharmaSUG-2024-DV-396.pdf",
+            "https://user2021.r-project.org/participation/technical_notes/t233/technote/"
+        ],
+        "linkVideo": [
+            "https://boehringer-ingelheim.github.io/davinci/quarto/images/short_video.mp4"
+        ]
+    },
+    "carver": {
+        "id": "carver",
+        "groupID": null,
+        "name": "carver",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Enable generation of common analysis reports (tables and interactive plots) for clinical review and direct inclusion in submission for regulatory agencies. This includes a Shiny application for complete safety report generation from Analysis Model (ADaM) datasets.",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "outstanding": "This working tool has already a lot of functionality and is running as a community project to enrich the outputs.",
+        "lastUpdateDate": "2026-03-13",
+        "portalInclusionDate": "2025-03-06",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/pfizer-opensource/carver",
+        "linkDocumentation": "https://pfizer-opensource.github.io/carver/index.html",
+        "license": "Apache License V2",
+        "documentation": "R manuals and vignetts are available",
+        "authorType": "collaboration",
+        "authors": [
+            "Pfizer",
+            "Smriti Anand",
+            "Aravind Reddy",
+            "Sukalpo Saha",
+            "James J. Kim"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 3,
+        "image": "carver_01.png",
+        "images": [
+            "carver_01.png",
+            "carver_02.png",
+            "carver_03.png",
+            "carver_04.png"
+        ],
+        "logo": "carver_logo.png",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=sIXEg6v_2k0"
+        ]
+    },
+    "r4csr": {
+        "id": "r4csr",
+        "groupID": null,
+        "name": "R for CSR and Submission",
+        "openSource": true,
+        "type": "Link",
+        "description": "This book will teach you how to prepare tables, listings, and figures for clinical study report and submit to regulatory agencies, the essential part of clinical trial development.",
+        "language": "R",
+        "outstanding": "This book shows many code examples how you can create clinical study evaluations in R.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2025-04-21",
+        "portalInclusionDate": "2022-04-26",
+        "portalUpdateDate": "2022-04-26",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/elong0527/r4csr",
+        "linkDocumentation": "https://r4csr.org",
+        "license": "CC-BY-NC-ND 4.0",
+        "documentation": "This e-book comes with excessive code examples",
+        "authorType": "individual",
+        "authors": [
+            "Yilong Zhang",
+            "Nan Xiao",
+            "more (see contributors)"
+        ],
+        "areaUsers": "ANALYST",
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 2,
+        "image": "r4csr_01.png",
+        "images": [
+            "r4csr_01.png",
+            "r4csr_02.png",
+            "r4csr_03.png",
+            "r4csr_04.png",
+            "r4csr_05.png"
+        ],
+        "logo": "",
+        "linkPresentation": [
+            "https://r4csr.org/slides/workshop-slides.html",
+            "https://r4csr.org/slides/china-r.html",
+            "https://r4csr.org/slides/workshop-slides.html",
+            "https://r4csr.org/slides/r4csr-gwu.html"
+        ],
+        "linkPaper": []
+    },
+    "OpenCST": {
+        "id": "OpenCST",
+        "groupID": null,
+        "name": "SAS Clinical Standards Toolkit",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The SAS\u00c2\u00ae Clinical Standards Toolkit (OpenCST) is a framework for the validation of CDISC data, especially SDTM and ADAM, and the generation of define.xml and ODM. The openCST contains the latest release of 1.7.2 of the Clinical Standards Toolkit supporting define-xml 2.0.",
+        "language": "SAS",
+        "outstanding": "SAS\u00c2\u00ae provides this toolkit under an open source licenses which allows for great options",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2024-12-21",
+        "portalInclusionDate": "2022-08-20",
+        "portalUpdateDate": "2022-08-20",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/sassoftware/clinical-standards-toolkit",
+        "linkDocumentation": [
+            "https://support.sas.com/documentation/cdl/en/clinstdtktug/69404/PDF/default/clinstdtktug.pdf",
+            "https://support.sas.com/documentation/cdl/en/clinstdtktgs/69403/PDF/default/clinstdtktgs.pdf"
+        ],
+        "license": "Apache License V2",
+        "documentation": "Detailed manual and get started file available",
+        "authorType": "company",
+        "authors": [
+            "SAS"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG",
+            "DM"
+        ],
+        "areaWorkfield": [
+            "Define",
+            "CDISC"
+        ],
+        "size": "large",
+        "relevance": 2,
+        "image": "opencst_01.png",
+        "images": [
+            "opencst_01.png",
+            "opencst_02.png",
+            "opencst_03.png",
+            "opencst_04.png",
+            "opencst_05.png",
+            "opencst_06.png",
+            "opencst_07.png"
+        ],
+        "logo": "sas_logo.png",
+        "linkPaper": [
+            "https://www.lexjansen.com/pharmasug/2017/SS/PharmaSUG-2017-SS08.pdf",
+            "https://www.lexjansen.com/phuse/2010/tu/TU06.pdf",
+            "https://www.lexjansen.com/pharmasug/2013/HT/PharmaSUG-2013-HT06-SAS.pdf"
+        ],
+        "linkPoster": [
+            "https://www.lexjansen.com/phuse/2015/pp/PP14_ppt.pdf"
+        ]
+    },
+    "CORE": {
+        "id": "CORE",
+        "groupID": null,
+        "name": "CDISC Open Rules Engine (CORE)",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The CDISC Conformance Rules Engine (CORE) is a framework for executable CDISC rules to validate dataset against CDISC compliance. The code can be executed using command line tools or can be incorporated in any modern software as it is available as python package.",
+        "language": "Python",
+        "outstanding": "The CORE is not only available to execute CDISC compliance rules, but also additional validation checks can be implemented and even shared. There is a demonstration so anyone can easily get access and try the engine.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-25",
+        "portalInclusionDate": "2022-08-20",
+        "portalUpdateDate": "2022-08-20",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/cdisc-org/cdisc-rules-engine",
+        "linkDocumentation": "https://www.cdisc.org/core",
+        "license": "MIT",
+        "documentation": "Code/functionality documentation outstanding, CORE project documentation is available",
+        "authorType": "company",
+        "authors": [
+            "CDISC"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG",
+            "DM"
+        ],
+        "areaWorkfield": [
+            "Define",
+            "CDISC"
+        ],
+        "size": "large",
+        "relevance": 2,
+        "image": "core_01.png",
+        "images": [
+            "core_01.png",
+            "core_02.png",
+            "core_03.png",
+            "core_07.png"
+        ],
+        "logo": "cdisc_logo.svg",
+        "linkVideo": [
+            "https://www.cdisc.org/core#standard__Presentations",
+            "https://www.cdisc.org/core#standard__TRY_IT_NOW"
+        ]
+    },
+    "Jumpstart": {
+        "id": "Jumpstart",
+        "groupID": "Jumpstart",
+        "name": "FDA Jumpstart Scripts",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "Clinical study evaluations scripts used by the FDA in their JumpStart tool has been developed based on SDTM standard. The FDA contributed the JumpStart SAS scripts so these are available on the PhUSE repository for use.",
+        "language": "SAS",
+        "outstanding": "It's amazing that the FDA contributed their JumpStart scripts.",
+        "thinkAbouts": "The original scripts has been developed around 2011 and been made available around 2016. There had been nearly no updates. These scripts are still quite useful, as this is what the FDA will have a look at the companies data.",
+        "lastUpdateDate": "2016-08-02",
+        "portalInclusionDate": "2019-05-27",
+        "portalUpdateDate": "2019-05-27",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/phuse-scripts/tree/master/tested/SAS",
+        "linkDocumentation": "https://github.com/phuse-org/phuse-scripts/tree/master/tested/SAS/SpecDocs",
+        "license": "MIT",
+        "documentation": "Detailed specifications are available in .doc format",
+        "authorType": "individual",
+        "authors": [
+            "FDA",
+            "PhUSE Working Group"
+        ],
+        "areaUsers": "ANALYST",
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 2,
+        "image": "jumpstart_05.png",
+        "images": [
+            "jumpstart_02.png",
+            "jumpstart_03.png",
+            "jumpstart_04.png",
+            "jumpstart_05.png",
+            "jumpstart_06.png",
+            "jumpstart_07.png",
+            "jumpstart_08.png",
+            "jumpstart_09.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": [
+            "https://www.lexjansen.com/phuse/2016/cs/CS07_ppt.pdf",
+            "https://www.lexjansen.com/phuse/2017/rg/RG01_ppt.pdf",
+            "https://www.lexjansen.com/pharmasug/2017/FDA/PharmaSUG-2017-FDA03-PPT.pdf",
+            "https://www.lexjansen.com/css-us/2017/PP29_Draft.pdf"
+        ],
+        "linkPaper": [
+            "https://www.lexjansen.com/phuse/2016/cs/CS07.pdf"
+        ]
+    },
+    "Pinnacle21Community": {
+        "id": "Pinnacle21Community",
+        "groupID": null,
+        "name": "Pinnacle21 Community Edition",
+        "openSource": true,
+        "type": "Tool",
+        "description": "No-Full-Open-Source - This tool supports various CDISC processes including the validation and creation of the define.xml. It's broadly used in the pharmaceutical industry and currently required by the Japanese authority PMDA.",
+        "language": [
+            "Java",
+            "Web"
+        ],
+        "outstanding": "The first version was developed by Max Kanevsky, Timothy Stone and Sergiy Sirichenko in 2008. After years of individual maintenance Pinnacle21 was founded to provide an enterprise version allowing full maintenance, strong support and additional services. As the tool became a de-facto industry standard it allows colleagues in various companies and countries to work very similar which supports collaborations a lot.",
+        "commercialExtras": "Additional functionality like data fitness, impact reports, additional analysis and more as well as contemporary updates are available on the Enterprise version.",
+        "thinkAbouts": "Even though most source code can be reviewed, the tool contains in the current version source code which is nowhere published. The license is very restrictive, that even for learning the source code can hardly be used.",
+        "lastUpdateDate": "2019-08-09",
+        "portalInclusionDate": "2022-04-25",
+        "portalUpdateDate": "2019-08-12",
+        "linkGithubNY": false,
+        "linkSource": "https://bitbucket.org/p21-community/",
+        "linkDocumentation": "https://www.pinnacle21.com/documentation",
+        "linkHomepage": "https://www.pinnacle21.com/downloads",
+        "license": "Pinnacle 21 Open Source Software License",
+        "linkLicense": "https://www.pinnacle21.com/license",
+        "linkCompany": "https://www.pinnacle21.com",
+        "documentation": "As this is broadly used, many papers and presentations are available apart from extensive documentation.",
+        "authorType": "company",
+        "authors": "Pinnacle21",
+        "areaUsers": [
+            "DM",
+            "ANALYST"
+        ],
+        "areaWorkfield": [
+            "Define",
+            "CDISC"
+        ],
+        "size": "large",
+        "relevance": 3,
+        "logo": "pinnacle21_logo.png",
+        "image": "pinnacle21_01.png",
+        "images": [
+            "pinnacle21_01.png",
+            "pinnacle21_02.png",
+            "pinnacle21_03.png",
+            "pinnacle21_04.png",
+            "pinnacle21_05.png",
+            "pinnacle21_06.png"
+        ]
+    },
+    "TidyCDISC": {
+        "id": "TidyCDISC",
+        "groupID": null,
+        "name": "TidyCDISC",
+        "openSource": true,
+        "type": "Tool",
+        "description": "TidyCDISC is an R-Shiny app. The purpose of tidyCDISC is to easily create custom tables and figures from ADaM datasets.",
+        "language": "R",
+        "outstanding": "",
+        "lastUpdateDate": "2026-02-05",
+        "portalInclusionDate": "2020-11-13",
+        "portalUpdateDate": "2021-02-01",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/Biogen-Inc/tidyCDISC",
+        "linkDocumentation": "https://biogen-inc.github.io/tidyCDISC/",
+        "linkCompany": "https://www.biogen.com",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=EFGkHrV0WbY",
+            "https://www.youtube.com/watch?v=QeHSjw-vU3U"
+        ],
+        "linkDemonstration": "https://rinpharma.shinyapps.io/tidyCDISC/",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "license": "AGPL",
+        "documentation": "A lot of documentation is available.",
+        "authorType": "company",
+        "authors": [
+            "Community",
+            "Maya Gans",
+            "Aaron Clark",
+            "Robert Krajcik",
+            "Marly Gotti",
+            "Nate Mockler",
+            "Biogen"
+        ],
+        "areaUsers": [
+            "ANALYST"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 7,
+        "logo": "tidyCDISCLogo.png",
+        "image": "tidyCDISC_01.png",
+        "images": [
+            "tidyCDISC_01.png",
+            "tidyCDISC_02.png",
+            "tidyCDISC_03.png",
+            "tidyCDISC_04.png",
+            "tidyCDISC_05.png",
+            "tidyCDISC_06.png"
+        ]
+    },
+    "Tplyr": {
+        "id": "Tplyr",
+        "groupID": null,
+        "name": "Tplyr",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Tplyr: A Grammar of Clinical Data Summary.  A tool created to simplify the data manipulation necessary to create clinical reports.",
+        "language": "R",
+        "outstanding": "",
+        "lastUpdateDate": "2026-02-26",
+        "portalInclusionDate": "2021-09-24",
+        "portalUpdateDate": "2021-09-24",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/atorus-research/Tplyr",
+        "linkDocumentation": "https://atorus-research.github.io/Tplyr/",
+        "linkCompany": " https://www.atorusresearch.com/",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=YOfFpy0_JUs",
+            "https://www.youtube.com/watch?v=bWmfrew7bPk"
+        ],
+        "linkDemonstration": "",
+        "linkPresentation": "https://github.com/rinpharma/2020_presentations/raw/main/talks_folder/2020-Stackhouse-Tplyr.pptx",
+        "linkPaper": "https://atorus-research.github.io/Tplyr/articles/Tplyr.html",
+        "license": "MIT",
+        "documentation": "Comprehensive R package documentation, vignettes, as well as qualification documentation is available.",
+        "authorType": "company",
+        "authors": [
+            "Eli Miller",
+            "Mike Stackhouse",
+            "Ashley Tarasiewicz",
+            "Atorus Research LLC"
+        ],
+        "areaUsers": [
+            "STAT",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "logo": "atorus_logo.svg",
+        "image": "atorus_tplyr_01.png",
+        "images": [
+            "atorus_tplyr_01.png",
+            "atorus_tplyr_02.png",
+            "atorus_tplyr_03.png",
+            "atorus_tplyr_04.png",
+            "atorus_tplyr_05.png",
+            "atorus_tplyr_06.png",
+            "atorus_tplyr_07.png"
+        ],
+        "linkVignette": [
+            {
+                "Tplyr": "https://cran.r-project.org/web/packages/Tplyr/vignettes/Tplyr.html"
+            },
+            {
+                "count": "https://cran.r-project.org/web/packages/Tplyr/vignettes/count.html"
+            },
+            {
+                "denom": "https://cran.r-project.org/web/packages/Tplyr/vignettes/denom.html"
+            },
+            {
+                "desc": "https://cran.r-project.org/web/packages/Tplyr/vignettes/desc.html"
+            },
+            {
+                "options": "https://cran.r-project.org/web/packages/Tplyr/vignettes/options.html"
+            },
+            {
+                "shift": "https://cran.r-project.org/web/packages/Tplyr/vignettes/shift.html"
+            },
+            {
+                "table": "https://cran.r-project.org/web/packages/Tplyr/vignettes/table.html"
+            }
+        ]
+    },
+    "SASUnit": {
+        "id": "SASUnit",
+        "groupID": null,
+        "name": "SASUnit",
+        "openSource": true,
+        "type": "Tool",
+        "description": "SASUnit is a unit testing framework for SAS(TM)-programs. It can be used for the development, execution and automatic documentation of tests for SAS programs. SASUnit is written purely on the basis of SAS macros and a few shell commands.",
+        "language": "SAS",
+        "outstanding": "This tool is already since more than 10 years available as open source.",
+        "lastUpdateDate": "2022-12-21",
+        "portalInclusionDate": "2019-05-24",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": false,
+        "linkSource": "https://sourceforge.net/p/sasunit/code/HEAD/tree/trunk/",
+        "linkDocumentation": "https://sourceforge.net/p/sasunit/wiki/SASUnit%20Documentation%20Home/",
+        "linkHomepage": "https://sourceforge.net/projects/sasunit/",
+        "linkCompany": "https://www.analytical-software.de",
+        "license": "GPL-3",
+        "documentation": "A lot of user documentation is available.",
+        "authorType": "company",
+        "authors": [
+            "Klaus Landwich",
+            "HMS Analytical Software"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "logo": "sasunit_logo.png",
+        "image": "sasunit_01.png",
+        "images": [
+            "sasunit_01.png",
+            "sasunit_02.png",
+            "sasunit_03.png",
+            "sasunit_04.png",
+            "sasunit_05.png",
+            "sasunit_06.png"
+        ]
+    },
+    "cxtf": {
+        "id": "cxtf",
+        "groupID": null,
+        "name": "cxtf",
+        "openSource": true,
+        "type": "Tool",
+        "description": "cxtf - A native SAS test framework for validating macros and processes without external dependencies.",
+        "language": "SAS",
+        "lastUpdateDate": "2024-12-30",
+        "portalInclusionDate": "2025-03-08",
+        "portalUpdateDate": "2025-03-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/cxlib/sas-library-cxtf",
+        "linkDocumentation": "https://github.com/cxlib/sas-library-cxtf/blob/main/README.md",
+        "license": "Apache License V2",
+        "documentation": "Basic documentation and examples are available",
+        "authorType": "individual",
+        "authors": [
+            "Magnus Mengelbier",
+            "Limelogic AB   "
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "image": "cxtf_01.png",
+        "images": [
+            "cxtf_01.png",
+            "cxtf_02.png",
+            "cxtf_03.png"
+        ],
+        "linkPaper": [
+            "https://www.lexjansen.com/pharmasug/2023/AP/PharmaSUG-2023-AP-253.pdf"
+        ]
+    },
+    "FHIRLOINC2SDTM": {
+        "id": "FHIRLOINC2SDTM",
+        "groupID": "",
+        "name": "FHIRLOINC2SDTM",
+        "openSource": true,
+        "type": "Tool",
+        "description": "This is a Java based toolkit to generate CDISC SDTM datasets (in modern Dataset-XML format) directly from FHIR resources from a server or file, using the FHIR REST API.",
+        "language": [
+            "Java"
+        ],
+        "outstanding": "This allows users to generate CDISC SDTM datasets directly from FHIR resources. Currently SDTM DM, LB, VS, MB-COVID-19, CM, MH and AE are covered. It will further be extended for other SDTM domains such as EG - bottleneck is LOINC (pre-coordinated) to CDISC (post-coordinated) mappings.",
+        "commercialExtras": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2022-01-09",
+        "linkGithubNY": false,
+        "linkSource": "https://sourceforge.net/p/fhirloinc2sdtm/code/ci/master/tree/",
+        "linkDocumentation": "https://sourceforge.net/p/fhirloinc2sdtm/wiki/Home/",
+        "linkHomepage": "https://sourceforge.net/p/fhirloinc2sdtm/",
+        "linkCompany": "http://www.xml4pharma.com",
+        "license": "MIT",
+        "documentation": "Documentation about the usage, in the scope of the Vulcan project, is available at: https://confluence.hl7.org/display/FHIR/2022-01+Vulcan+-+Real+World+Data+%28RWD%29+Submission+to+FDA",
+        "authorType": "company",
+        "authors": "Jozef Aerts",
+        "areaUsers": [
+            "DM",
+            "PROG"
+        ],
+        "areaWorkfield": "CDISC",
+        "size": "medium",
+        "relevance": 5,
+        "image": "FHIR2SDTM_01.png",
+        "images": [
+            "FHIR2SDTM_01.png",
+            "FHIR2SDTM_02.png",
+            "FHIR2SDTM_03.png",
+            "FHIR2SDTM_05.png",
+            "FHIR2SDTM_04.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "linkVideo": "https://www.youtube.com/watch?v=eLbtWmK12jg&t=152s"
+    },
+    "VSCodeSASExtension": {
+        "id": "VSCodeSASExtension",
+        "groupID": null,
+        "name": "VSCode SAS Extension",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The SAS Extension for VS Code enables seamless SAS integration, code execution, and multi-language support.",
+        "language": "Other",
+        "outstanding": "26 different contributors have been working on this extension.",
+        "lastUpdateDate": "2026-03-25",
+        "portalInclusionDate": "2025-03-08",
+        "portalUpdateDate": "2025-03-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/sassoftware/vscode-sas-extension",
+        "linkDocumentation": "https://sassoftware.github.io/vscode-sas-extension/Features/accessLibraries",
+        "license": "Apache License V2",
+        "documentation": "Excessive documentation is available.",
+        "authorType": "collaboration",
+        "authors": [
+            "SAS",
+            "Community"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG",
+            "Various"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "large",
+        "relevance": 3,
+        "image": "vscodesas_01.png",
+        "images": [
+            "vscodesas_01.png",
+            "vscodesas_02.png",
+            "vscodesas_03.png",
+            "vscodesas_04.png",
+            "vscodesas_05.png"
+        ],
+        "logo": "sas_logo.png",
+        "linkPaper": [
+            "https://www.lexjansen.com/sesug/2024/109_Final_PDF.pdf"
+        ],
+        "linkVideo": [
+            "https://www.sas.com/en_us/webinars/sas-visual-studio-code-extension.html"
+        ]
+    },
+    "DouhauDataStudio": {
+        "id": "DouhauDataStudio",
+        "groupID": "DouhauDataStudio",
+        "name": "Douhau Data Studio",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Douhau Data Studio is a data browser desktop application for CDISC SDTM, and support both SAS XPORT v5 and CDISC Dataset-XML file format.",
+        "language": [
+            "R",
+            "Web"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "Douhau Data Studio has the data grid without pagination that provides non-interrupt and comfortable usability for clinical data browsing.",
+        "lastUpdateDate": "2022-11-23",
+        "portalInclusionDate": "2021-02-08",
+        "portalUpdateDate": "2021-02-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/i-akiya/DouhauDataStudio",
+        "linkDocumentation": "https://i-akiya.github.io/DouhauDataStudio-UserGuide/",
+        "linkVideo": "https://youtu.be/S6sJirtULQA",
+        "license": "MIT",
+        "documentation": "The user guide is available from the URL of the above Link documentation.",
+        "authorType": "individual",
+        "authors": [
+            "Ippei Akiya"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Visualization",
+        "size": "large",
+        "relevance": 3,
+        "image": "douhaudatastudio_01.png",
+        "images": [
+            "douhaudatastudio_01.png",
+            "douhaudatastudio_01.png"
+        ],
+        "logo": "douhaudatastudio_logo.png"
+    },
+    "Spectre": {
+        "id": "Spectre",
+        "groupID": "Spectre",
+        "name": "Spectre (Roland's SAS\u00ae Macros)",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "A complete clinical reporting engine is provided as Sprectre. It's a comprehensive macro framework. Additionally 244 useful utility macros are available.",
+        "language": "SAS",
+        "outstanding": "",
+        "thinkAbouts": "It's a compolex and comprehensive macro framework with many dependencies. The person who had developed this unluckily faded away.",
+        "lastUpdateDate": "2015-06-17",
+        "portalInclusionDate": "2019-06-05",
+        "portalUpdateDate": "2019-06-05",
+        "linkGithubNY": false,
+        "linkSource": "http://www.datasavantconsulting.com/roland/Spectre/download.html",
+        "license": "Unlicense",
+        "documentation": "Basic documentation in HTML format can be downloaded at the source link.",
+        "authorType": "individual",
+        "authors": "Roland Rashleigh-Berry",
+        "areaUsers": "ANALYST",
+        "areaWorkfield": "Outputs",
+        "size": "large",
+        "relevance": 3,
+        "image": "spectre_2_01.png",
+        "images": [
+            "spectre_2_01.png",
+            "spectre_2_02.png",
+            "spectre_2_03.png",
+            "spectre_2_04.png"
+        ]
+    },
+    "SAS Macros by Scott Bass": {
+        "id": "SAS Macros by Scott Bass",
+        "groupID": "SAS Macros by Scott Bass",
+        "name": "SAS Macros by Scott Bass",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "Scott Bass has built up a (semi) large collection of utility macros over the years with 73 macros currently. These are put up on GitHub to make them available for anyone. Almost all are utility in nature, and not tied to any particular project.",
+        "language": "SAS",
+        "outstanding": "This is one of very few open source SAS macro collections developed by a single person.",
+        "lastUpdateDate": "2020-10-22",
+        "portalInclusionDate": "2019-05-22",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/scottbass/SAS/tree/master/Macro",
+        "license": "Unlicense",
+        "documentation": "Documentation is available in macro headers including example calls",
+        "authorType": "individual",
+        "authors": "Scott Bass",
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 5,
+        "image": "sas_macro_scott_bass_01.jpg",
+        "images": [
+            "sas_macro_scott_bass_01.jpg",
+            "sas_macro_scott_bass_02.jpg",
+            "sas_macro_scott_bass_03.jpg",
+            "sas_macro_scott_bass_04.jpg"
+        ],
+        "linkPresentation": "https://raw.githubusercontent.com/scottbass/SAS/master/Presentations/SNUG/SNUG%20Tips%20and%20Tricks%20From%20The%20Committee%20-%20Q4%202016.docx"
+    },
+    "SASjs Core Macros": {
+        "id": "SASjs Core Macros",
+        "groupID": "SASjs Core Macros",
+        "name": "SASjs Core Macros",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "Much quality. Many standards. The Macro Core library exists to save time and development effort! Herein ye shall find a veritable host of production quality SAS macros. These are a mix of tools, utilities, functions and code generators that are useful in the context of Application Development on the SAS platform. Contributions are welcomed.",
+        "language": "SAS",
+        "lastUpdateDate": "2026-03-19",
+        "portalInclusionDate": "2020-08-24",
+        "portalUpdateDate": "2021-02-01",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/sasjs/core",
+        "linkDocumentation": "https://core.sasjs.io",
+        "license": "MIT",
+        "documentation": "General documentation on the Source readme, separate per macro documentation available",
+        "authorType": "individual",
+        "authors": [
+            "Allan Bowe",
+            "others"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 5,
+        "logo": "sasjs_core.png",
+        "image": "sasjs_core01.png",
+        "images": [
+            "sasjs_core01.png",
+            "sasjs_core02.png",
+            "sasjs_core03.png",
+            "sasjs_core04.png"
+        ],
+        "linkPresentation": ""
+    },
+    "reindeer": {
+        "id": "reindeer",
+        "groupID": "",
+        "name": "Reindeer - Result Render Tool",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Reindeer is a VBA tool to render SAS results in LISTING, RTF, TAGSETS.RTF and Figures into a Word template file. PDF can be generated as well. This easy to use and very intuitive open source tool is sponsored by ClinStat.",
+        "language": [
+            "Other",
+            "SAS"
+        ],
+        "outstanding": "Sponsorship enabled this tool! We need more of this!",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2023-03-10",
+        "portalInclusionDate": "2020-02-14",
+        "portalUpdateDate": "2021-02-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/KatjaGlassConsulting/reindeer",
+        "linkDocumentation": "https://github.com/KatjaGlassConsulting/reindeer/blob/master/doc/Reindeer.docm",
+        "linkHomepage": "",
+        "linkCompany": "https://www.glacon.eu",
+        "license": "MIT",
+        "documentation": "The documentation is available in the Word file containing the tool itself.",
+        "authorType": "company",
+        "authors": "Katja Glass",
+        "areaUsers": [
+            "PROG",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 5,
+        "image": "reindeer_01.png",
+        "images": [
+            "reindeer_01.png",
+            "reindeer_02.png",
+            "reindeer_03.png",
+            "reindeer_04.png",
+            "reindeer_05.png",
+            "reindeer_06.png",
+            "reindeer_07.png",
+            "reindeer_08.png"
+        ],
+        "logo": "glacon_logo.png",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "DDF_SDR": {
+        "id": "DDF_SDR",
+        "groupID": null,
+        "name": "DDF Study Definition Repository",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The Study Definition Repository (SDR) Reference Implementation coming out of the Digital Data Flow (DDF) project aims to support end-to-end processes.",
+        "language": "Other",
+        "outstanding": "The SDR Reference implementation is using multiple repositories for the single components. Here the platform is linked.",
+        "thinkAbouts": "The Reference implementation needs Azure to run. There are plans to have a local installation setup later on. Core aspects are the USDM data model, the user interface and the API.",
+        "lastUpdateDate": "2026-01-09",
+        "portalInclusionDate": "2022-08-20",
+        "portalUpdateDate": "2022-08-20",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/transcelerate/ddf-sdr-platform",
+        "linkDocumentation": "https://transcelerate.github.io/ddf-home/index.html",
+        "license": "Apache License V2",
+        "documentation": "Detailed documentation and videos are available. Checkout readme files and project homepage.",
+        "authorType": "company",
+        "authors": [
+            "Transcelerate"
+        ],
+        "areaUsers": [
+            "Various"
+        ],
+        "areaWorkfield": [
+            "MDR"
+        ],
+        "size": "large",
+        "relevance": 2,
+        "image": "ddf_sdr_01.png",
+        "images": [
+            "ddf_sdr_01.png",
+            "ddf_sdr_02.png",
+            "ddf_sdr_03.png",
+            "ddf_sdr_04.png",
+            "ddf_sdr_05.png",
+            "ddf_sdr_06.png"
+        ],
+        "linkVideo": "https://www.youtube.com/playlist?list=PLMXS-Xt7Ou1KNUF-HQKQRRzqfPQEXWb1u",
+        "logo": "transcelerate_logo.png"
+    },
+    "CORERuleEditor": {
+        "id": "CORERuleEditor",
+        "groupID": null,
+        "name": "Conformance Rules Editor",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Additional validation rules can be created for CORE with the CDISC Conformance Rules Editor. Existing rules can also be reviewed.",
+        "language": "Web",
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-05",
+        "portalInclusionDate": "2022-08-20",
+        "portalUpdateDate": "2022-08-20",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/cdisc-org/conformance-rules-editor",
+        "linkDocumentation": "https://www.cdisc.org/core",
+        "license": "MIT (planned)",
+        "documentation": "Code/functionality documentation outstanding, CORE project documentation is available",
+        "authorType": "company",
+        "authors": [
+            "CDISC"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG",
+            "DM"
+        ],
+        "areaWorkfield": [
+            "Define",
+            "CDISC"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "image": "core_editor_01.png",
+        "images": [
+            "core_editor_01.png",
+            "core_editor_02.png"
+        ],
+        "logo": "cdisc_logo.svg"
+    },
+    "SmartDatasetViewer": {
+        "id": "SmartDatasetViewer",
+        "groupID": "",
+        "name": "Smart Submission Dataset Viewer",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Smart Submission Dataset Viewer is a Java-based viewer for CDISC submission files in the new Dataset-XML format. The newer versions also allow to generate Dataset-XML files starting from SAS-XPT files on the fly.",
+        "language": [
+            "Java"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2025-11-03",
+        "portalInclusionDate": "2019-06-17",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": false,
+        "linkSource": "https://sourceforge.net/p/smart-submission-dataset-viewe/code/ci/master/tree/",
+        "linkDocumentation": "https://sourceforge.net/projects/smart-submission-dataset-viewe/files/Documentation/",
+        "linkVideo": "https://www.youtube.com/watch?v=wRBktVtB47s",
+        "linkHomepage": "https://sourceforge.net/projects/smart-submission-dataset-viewe/",
+        "linkCompany": "http://www.xml4pharma.com",
+        "license": "MIT",
+        "documentation": "Documentation PDFs can be found in the link location of the source",
+        "authorType": "individual",
+        "authors": [
+            "Jozef Aerts",
+            "XML4Pharma"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "Define",
+        "size": "medium",
+        "relevance": 5,
+        "image": "smart_dataset_01.jpg",
+        "images": [
+            "smart_dataset_01.jpg",
+            "smart_dataset_02.jpg",
+            "smart_dataset_03.jpg",
+            "smart_dataset_04.jpg",
+            "smart_dataset_05.jpg"
+        ],
+        "logo": "smart_dataset_logo.gif",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "datasetjson": {
+        "id": "datasetjson",
+        "groupID": null,
+        "name": "datasetjson",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "datasetjson is an R package for reading and writing CDISC Dataset JSON datasets, supporting seamless data exchange.",
+        "language": "R",
+        "outstanding": "This is the result of a CDISC Open Source Alliance hackathon supporting the new Dataset JSON standard",
+        "lastUpdateDate": "2026-02-04",
+        "portalInclusionDate": "2025-03-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/atorus-research/datasetjson",
+        "linkDocumentation": "https://atorus-research.github.io/datasetjson/index.html",
+        "license": "Apache License V2",
+        "documentation": "Documentation and articles are available",
+        "authorType": "company",
+        "authors": [
+            "Atorus Research LLC"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "CDISC"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "image": "datasetjson_01.png",
+        "images": [
+            "datasetjson_01.png",
+            "datasetjson_02.png",
+            "datasetjson_03.png",
+            "datasetjson_04.png"
+        ],
+        "logo": "datasetjson_logo.svg",
+        "linkVideo": [
+            "https://www.cdisc.org/events/webinar/cosa-quarterly-spotlight-q3-2023"
+        ]
+    },
+    "valtools": {
+        "id": "valtools",
+        "groupID": "",
+        "name": "valtools",
+        "openSource": true,
+        "type": "Tool",
+        "description": "valtools - an R Package Validation Framework. Valtools helps automate the validation of R packages used in clinical research and drug development.",
+        "language": "R",
+        "outstanding": "This package is created by the R Package Validation Framework PHUSE Working Group.",
+        "lastUpdateDate": "2024-11-05",
+        "portalInclusionDate": "2021-08-21",
+        "portalUpdateDate": "2021-08-21",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/valtools",
+        "linkDocumentation": "https://github.com/phuse-org/valtools/blob/main/vignettes/starting-validated-package.Rmd",
+        "license": "MIT",
+        "documentation": "The documentation describes how to start a new validation package using {valtools}",
+        "authorType": "individual",
+        "authors": [
+            "Ellis Hughes",
+            "Marie Vendettuoli",
+            "Eli Miller",
+            "PhUSE Working Group"
+        ],
+        "areaUsers": [
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 5,
+        "image": "valtools_03.png",
+        "images": [
+            "valtools_03.png",
+            "valtools_01.png",
+            "valtools_02.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2021/Connect/US/Virtual/PRE_TT10.pdf",
+        "linkPaper": "",
+        "linkVideo": "https://www.rstudio.com/resources/rstudioglobal-2021/r-package-validation-framework/"
+    },
+    "webCodebook": {
+        "id": "webCodebook",
+        "groupID": "",
+        "name": "Web Codebook",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Web Codebook is a JavaScript library for interactive, graphical data summaries with real-time filtering.",
+        "language": [
+            "Web",
+            "R"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "The tool itself is a JavaScript package. Usage might be easier through the R Package: an example call can be found in the paper.",
+        "lastUpdateDate": "2022-04-09",
+        "portalInclusionDate": "2019-06-05",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/RhoInc/web-codebook",
+        "linkDocumentation": "https://github.com/RhoInc/web-codebook/wiki",
+        "linkHomepage": "",
+        "linkCompany": "http://www.rhoinc.com",
+        "license": "MIT",
+        "documentation": "The documentation is on the JavaScript usage, might be difficult to follow if unfamilar with JavaScript.",
+        "authorType": "company",
+        "authors": "RhoInc Employees",
+        "areaUsers": [
+            "PROG",
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "Visualization",
+        "size": "medium",
+        "relevance": 5,
+        "image": "webcodebook_01.png",
+        "images": [
+            "webcodebook_01.png",
+            "webcodebook_02.png",
+            "webcodebook_03.png"
+        ],
+        "logo": "rhoinc_logo.png",
+        "linkPresentation": "https://www.lexjansen.com/phuse-us/2018/dv/DV12_ppt.pdf",
+        "linkPaper": "https://www.lexjansen.com/phuse-us/2018/dv/DV12.pdf"
+    },
+    "ramnog": {
+        "id": "ramnog",
+        "name": "ramnog",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "Ramnog is a collection of packages for setting up pipelines for AMNOG-style HTA analyses. The aim is to set up an AMNOG-type analyses with minimal familiarity with R.",
+        "language": "R",
+        "outstanding": "There is a new German regulation (AMNOG) - which comes with specific requirements - this solution is a great help to create the corresponding analysis.",
+        "lastUpdateDate": "2024-04-18",
+        "portalInclusionDate": "2025-03-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/hta-pharma/ramnog",
+        "linkDocumentation": "https://hta-pharma.github.io/ramnog",
+        "license": "MIT",
+        "documentation": "Quickstart and detailed documentation available",
+        "authorType": "collaboration",
+        "authors": [
+            "Novo Nordisk",
+            "Matthew David Phelps",
+            "Nicolai Skov Johnsen",
+            "Henrik Sparre Spiegelhauer",
+            "Christian Haargaard Olsen"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 5,
+        "image": "ramnog_01.png",
+        "images": [
+            "ramnog_01.png",
+            "ramnog_02.png",
+            "ramnog_03.png",
+            "ramnog_04.png",
+            "ramnog_05.png",
+            "ramnog_06.png"
+        ],
+        "logo": "ramnog_logo.png",
+        "linkPoster": [
+            "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/SDE/EU/Copenhagen/POS_Copenhagen02.pdf"
+        ]
+    },
+    "teal4real": {
+        "id": "teal4real",
+        "groupID": null,
+        "name": "teal4real",
+        "openSource": true,
+        "type": "Tool",
+        "description": "A reporting tool for Real-world Data based on Shiny & teal.modules.clinical. Teal4Real brings the power of Teal to Real-world Data by transforming one-row-per-patient datasets to ADaM format that Teal understands.",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "lastUpdateDate": "2025-02-19",
+        "portalInclusionDate": "2025-03-06",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/Genentech/Teal4Real",
+        "linkDocumentation": "https://genentech.github.io/Teal4Real/index.html",
+        "license": "MIT",
+        "documentation": "Basic documentation available",
+        "authorType": "collaboration",
+        "authors": [
+            "Genentech"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 6,
+        "image": "teal4real_01.png",
+        "images": [
+            "teal4real_01.png",
+            "teal4real_02.png",
+            "teal4real_03.png",
+            "teal4real_04.png",
+            "teal4real_05.png"
+        ],
+        "linkDemonstration": [
+            "https://bretscher-biometrics.shinyapps.io/teal4real-demo/"
+        ]
+    },
+    "toxSummary": {
+        "id": "toxSummary",
+        "groupID": "",
+        "name": "toxSummary",
+        "openSource": true,
+        "type": "Tool",
+        "description": "ToxSummary is an interactive RShiny visualization and summarization of toxicology study results across species, routes and durations.",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2020-10-09",
+        "portalInclusionDate": "2021-08-27",
+        "portalUpdateDate": "2021-08-27",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/phuse-scripts/tree/master/contributed/Nonclinical/R/toxSummary",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "Little is available - presentation PHUSE US Connect 2021",
+        "authorType": "individual",
+        "authors": "Kevin Snyder",
+        "areaUsers": [
+            "PROG",
+            "ANALYST",
+            "STAT"
+        ],
+        "areaWorkfield": "Visualization",
+        "size": "small",
+        "relevance": 6,
+        "image": "toxSummary_01.png",
+        "images": [
+            "toxSummary_01.png",
+            "toxSummary_02.png",
+            "toxSummary_03.png",
+            "toxSummary_04.png",
+            "toxSummary_05.png",
+            "toxSummary_06.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2021/Connect/US/Virtual/PRE_DV12.pdf",
+        "linkPaper": "",
+        "linkDemonstration": "https://phuse-org.shinyapps.io/toxSummary/",
+        "linkVideo": "https://www.youtube.com/watch?v=56V2yxPTWtk"
+    },
+    "CDISCPilotRep": {
+        "id": "CDISCPilotRep",
+        "groupID": "CDISCPilotRep",
+        "name": "CDISC Pilot Replication in R",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "This repository contains R Scripts for regenerating CDISC Pilot Project table outputs using updated pilot data.",
+        "language": "R",
+        "outstanding": "",
+        "thinkAbouts": "The motivation is to: Demonstrate that we were able to obtain matching outputs using R, Provide open source code to the public to demonstrate how we were able to do this, Demonstrate Atorus first publicly released R package, pharmaRTF, in action.",
+        "lastUpdateDate": "2021-03-08",
+        "portalInclusionDate": "2021-11-01",
+        "portalUpdateDate": "2021-11-01",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/atorus-research/CDISC_pilot_replication",
+        "linkDocumentation": "",
+        "license": "MIT",
+        "documentation": "",
+        "authorType": "company",
+        "authors": [
+            "Eli Miller",
+            "Mike Stackhouse"
+        ],
+        "areaUsers": [
+            "STAT",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 6,
+        "image": "cdiscpilotrep_01.png",
+        "images": [
+            "cdiscpilotrep_01.png",
+            "cdiscpilotrep_03.png",
+            "cdiscpilotrep_02.png",
+            "cdiscpilotrep_04.png",
+            "cdiscpilotrep_05.png"
+        ],
+        "logo": "atorus_logo.svg",
+        "linkPresentation": "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2020/Connect/EU/Virtual/PRE_TT04.pdf"
+    },
+    "WhitepaperScripts": {
+        "id": "WhitepaperScripts",
+        "groupID": "WhitepaperScripts",
+        "name": "PhUSE White Paper Central Tendencies Scripts",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "PhUSE has developed analysis and display white papers covering many aspects of clinical study evaluations. Additionally people developed corresponding R and SAS scripts which create the white paper outputs and graphics. These scripts are made publicy available in the PhUSE script repository.",
+        "language": [
+            "R",
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "The scripts are developed using the pilot study data available and are typically not very generic. Most programs needs adaptions when applied to other studies.",
+        "lastUpdateDate": "2021-05-20",
+        "portalInclusionDate": "2019-05-27",
+        "portalUpdateDate": "2019-05-27",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/phuse-scripts/tree/master/whitepapers/WPCT",
+        "linkDocumentation": "https://github.com/phuse-org/phuse-scripts/tree/master/whitepapers/specification",
+        "license": "MIT",
+        "documentation": "Specifications and YAML (script metadata) available, documentation RShiny App can be downloaded from CRAN - R Package PhUSE",
+        "authorType": "individual",
+        "authors": [
+            "PhUSE Working Group"
+        ],
+        "areaUsers": "ANALYST",
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 6,
+        "image": "whitepaper_01.png",
+        "images": [
+            "whitepaper_01.png",
+            "whitepaper_02.png",
+            "whitepaper_03.png",
+            "whitepaper_04.png",
+            "whitepaper_05.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "https://www.lexjansen.com/phuse-us/2019/pp/PP20_ppt.pdf"
+    },
+    "StatTag": {
+        "id": "StatTag",
+        "groupID": "StatTag",
+        "name": "StatTag",
+        "openSource": true,
+        "type": "Tool",
+        "description": "StatTag is a free plug-in for conducting reproducible research and creating dynamic documents using Microsoft Word with the R, Stata and SAS statistical packages.",
+        "language": [
+            "Other",
+            "R",
+            "SAS"
+        ],
+        "outstanding": "StatTag allows users to embed statistical output (estimates, tables, and figures) within Word and provides an interface to edit statistical code directly from Word. Statistical output can be individually or collectively updated from Word in one-click with a behind-the-scenes call to the statistical program. With StatTag, modification of a dataset or analysis no longer entails transcribing or re-copying results in to a manuscript or table.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2024-12-19",
+        "portalInclusionDate": "2020-11-30",
+        "portalUpdateDate": "2020-11-30",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/StatTag/StatTag",
+        "linkDocumentation": "https://sites.northwestern.edu/stattag/",
+        "license": "MIT",
+        "documentation": "Comprehensive documentation and videos are available",
+        "authorType": "individual",
+        "authors": [
+            "Northwestern University"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "STAT",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 6,
+        "image": "stattag_04.png",
+        "images": [
+            "stattag_04.png",
+            "stattag_01.png",
+            "stattag_02.png",
+            "stattag_03.png",
+            "stattag_05.png"
+        ],
+        "logo": "stattag-logo.png",
+        "linkPoster": "https://www.lexjansen.com/mwsug/2016/PO/MWSUG-2016-PO07.pdf",
+        "linkVideo": "https://www.youtube.com/channel/UC2bzjiyGLt9wckl_CCz8I1A",
+        "linkDemonstration": "https://www.youtube.com/watch?v=K3QwG4LB9a4"
+    },
+    "metalite.ae": {
+        "id": "metalite.ae",
+        "groupID": null,
+        "name": "metalite.ae",
+        "openSource": true,
+        "type": "Tool",
+        "description": "R package designed for the analysis of adverse events (AE), which is operating on ADaM",
+        "language": "R",
+        "outstanding": "",
+        "lastUpdateDate": "2026-03-24",
+        "portalInclusionDate": "2024-04-21",
+        "portalUpdateDate": "2024-04-21",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/Merck/metalite.ae",
+        "linkDocumentation": "https://merck.github.io/metalite.ae/",
+        "linkCompany": " https://www.merck.com/",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=ifhbYNjrw_o&t=73s"
+        ],
+        "license": "GPL-3",
+        "documentation": "Comprehensive R package documentation and articles are available.",
+        "authorType": "company",
+        "authors": [
+            "Merck"
+        ],
+        "areaUsers": [
+            "STAT",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "logo": "metaliteae_logo.png",
+        "image": "atorus_pharmartf_01.png",
+        "images": [
+            "metaliteae_01.png",
+            "metaliteae_02.png",
+            "metaliteae_03.png",
+            "metaliteae_04.png"
+        ]
+    },
+    "pharmaRTF": {
+        "id": "pharmaRTF",
+        "groupID": null,
+        "name": "pharmaRTF",
+        "openSource": true,
+        "type": "Tool",
+        "description": "Enhanced RTF wrapper written in R for use with existing R tables packages such as 'Huxtable' or 'GT'. This package fills a gap where tables in certain packages can be written out to RTF, but cannot add certain metadata or features to the document that are required/expected in a report for a regulatory submission, such as multiple levels of titles and footnotes, making the document landscape, and controlling properties such as margins.",
+        "language": "R",
+        "outstanding": "",
+        "lastUpdateDate": "2024-02-06",
+        "portalInclusionDate": "2021-09-24",
+        "portalUpdateDate": "2021-09-24",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/atorus-research/pharmaRTF",
+        "linkDocumentation": "https://atorus-research.github.io/pharmaRTF/",
+        "linkCompany": " https://www.atorusresearch.com/",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=wV7bq2298JI"
+        ],
+        "linkDemonstration": "",
+        "linkPresentation": "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2020/Connect/EU/Virtual/PRE_TT04.pdf",
+        "linkPaper": "https://atorus-research.github.io/pharmaRTF/articles/pharmaRTF.html",
+        "license": "MIT",
+        "documentation": "Comprehensive R package documentation, vignettes, as well as qualification documentation is available.",
+        "authorType": "company",
+        "authors": [
+            "Eli Miller",
+            "Mike Stackhouse",
+            "Ashley Tarasiewicz",
+            "Atorus Research LLC"
+        ],
+        "areaUsers": [
+            "STAT",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Programming",
+            "Outputs"
+        ],
+        "size": "medium",
+        "relevance": 5,
+        "logo": "atorus_logo.svg",
+        "image": "atorus_pharmartf_01.png",
+        "images": [
+            "atorus_pharmartf_01.png",
+            "atorus_pharmartf_02.png",
+            "atorus_pharmartf_03.png",
+            "atorus_pharmartf_04.png"
+        ],
+        "linkVignette": [
+            {
+                "pharmaRTF": "https://cran.r-project.org/web/packages/pharmaRTF/vignettes/pharmaRTF.html"
+            },
+            {
+                "Advanced Usage of pharmaRTF": "https://cran.r-project.org/web/packages/pharmaRTF/vignettes/advanced_usage.html"
+            },
+            {
+                "Huxtable Tips": "https://cran.r-project.org/web/packages/pharmaRTF/vignettes/huxtable_tips.html"
+            },
+            {
+                "Sourcing Titles and Footnotes From External Files": "https://cran.r-project.org/web/packages/pharmaRTF/vignettes/tf_from_file.html"
+            }
+        ]
+    },
+    "RTables": {
+        "id": "RTables",
+        "groupID": "",
+        "name": "RTables",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The RTables R package is a prototype to create and display complex tables with R. The cells in an RTable may contain any high-dimensional data structure which can then be displayed with cell-specific formatting instructions. Currently,RTables can be outputted in ascii and html.",
+        "language": [
+            "R"
+        ],
+        "outstanding": "Roche as huge pharmaceutical company provides this open source package.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-25",
+        "portalInclusionDate": "2020-02-17",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/Roche/rtables",
+        "linkDocumentation": "https://insightsengineering.github.io/rtables/main/index.html",
+        "linkHomepage": "",
+        "linkCompany": "https://www.roche.com",
+        "license": "Apache License V2",
+        "documentation": "Documentation is available including many vignette examples.",
+        "authorType": "company",
+        "authors": [
+            "Gabriel Becker",
+            "Adrian Waddell",
+            "Daniel Saban\u00e9s Bov\u00e9",
+            "Maximilian Mordig",
+            "Roche"
+        ],
+        "areaUsers": [
+            "ANALYST"
+        ],
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 5,
+        "image": "rtable_01.png",
+        "images": [
+            "rtable_01.png",
+            "rtable_02.png",
+            "rtable_03.png",
+            "rtable_04.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": "https://docs.google.com/presentation/d/1bpdBDp4PZdZ4hCsfaPkAuHDVnJmtp7WBIZ19oKMDq0M/edit?usp=sharing",
+        "linkVignette": [
+            {
+                "Example Clinical Trials Tables": "https://cran.r-project.org/web/packages/rtables/vignettes/clinical_trials.html"
+            },
+            {
+                "Introduction to rtables": "https://cran.r-project.org/web/packages/rtables/vignettes/rtables.html"
+            },
+            {
+                "Comparing Against Baselines or Control": "https://cran.r-project.org/web/packages/rtables/vignettes/baseline.html"
+            },
+            {
+                "Constructing rtables Manually": "https://cran.r-project.org/web/packages/rtables/vignettes/manual_table_construction.html"
+            },
+            {
+                "Pruning and Sorting Tables": "https://cran.r-project.org/web/packages/rtables/vignettes/sorting_pruning.html"
+            },
+            {
+                "Subsetting Tables": "https://cran.r-project.org/web/packages/rtables/vignettes/subsetting_tables.html"
+            },
+            {
+                "Tabulation Concepts": "https://cran.r-project.org/web/packages/rtables/vignettes/tabulation_concepts.html"
+            },
+            {
+                "Comparison with dplyr Tabulation": "https://cran.r-project.org/web/packages/rtables/vignettes/tabulation_dplyr.html"
+            }
+        ]
+    },
+    "R2RTF": {
+        "id": "R2RTF",
+        "groupID": "",
+        "name": "R2RTF",
+        "openSource": true,
+        "type": "Tool",
+        "description": "R2RTF is an R package to create production-ready tables and figures in RTF format. The R package is designed to provide simple verb functions, enables pipes, only focus on table format and minimizes package dependency. ",
+        "language": [
+            "R"
+        ],
+        "outstanding": "Merck Sharp & Dohme Corp as pharmaceutical company provides this open source package.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-01-09",
+        "portalInclusionDate": "2021-09-06",
+        "portalUpdateDate": "2021-09-06",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/Merck/r2rtf",
+        "linkDocumentation": "https://merck.github.io/r2rtf/index.html",
+        "linkHomepage": "",
+        "linkCompany": "https://www.merck.com/",
+        "license": "GPL-3",
+        "documentation": "Documentation is available including many vignette examples.",
+        "authorType": "company",
+        "authors": [
+            "Yilong Zhang",
+            "Siruo Wang",
+            "Simiao Ye",
+            "Fansen Kong",
+            "and contributors",
+            "Merck Sharp & Dohme Corp"
+        ],
+        "areaUsers": [
+            "ANALYST"
+        ],
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 5,
+        "image": "r2rtf_01.png",
+        "images": [
+            "r2rtf_01.png",
+            "r2rtf_02.png",
+            "r2rtf_03.png",
+            "r2rtf_04.png",
+            "r2rtf_05.png",
+            "r2rtf_06.png"
+        ],
+        "logo": "",
+        "linkPresentation": "https://github.com/rinpharma/2020_presentations/blob/main/talks_folder/2020-Zhang-r2rtf.pdf",
+        "linkVideo": "https://www.youtube.com/watch?v=MNdMME66xBw",
+        "linkPaper": "https://www.lexjansen.com/pharmasug/2020/DV/PharmaSUG-2020-DV-198.pdf",
+        "linkVignette": [
+            {
+                "An Introduction to the r2rtf Package": "https://merck.github.io/r2rtf/articles/r2rtf.html"
+            },
+            {
+                "Baseline Characteristics Tables": "https://merck.github.io/r2rtf/articles/example-basechar.html"
+            },
+            {
+                "AE Summary Count Tables": "https://merck.github.io/r2rtf/articles/example-ae-summary.html"
+            },
+            {
+                "Figures": "https://merck.github.io/r2rtf/articles/example-figure.html"
+            },
+            {
+                "Tables with Sublineby, Pageby, and Groupby Features": "https://merck.github.io/r2rtf/articles/example-sublineby-pageby-groupby.html"
+            },
+            {
+                "Controlling Text and Paragraph Details": "https://merck.github.io/r2rtf/articles/rtf-text.html"
+            },
+            {
+                "Controlling Table Details": "https://merck.github.io/r2rtf/articles/rtf-row.html"
+            },
+            {
+                "File Format Conversion": "https://merck.github.io/r2rtf/articles/rtf-convert-format.html"
+            },
+            {
+                "r2rtf Design Pattern": "https://merck.github.io/r2rtf/articles/design-pattern.html"
+            }
+        ]
+    },
+    "ModVizPop": {
+        "id": "ModVizPop",
+        "groupID": "",
+        "name": "ModVizPop",
+        "openSource": true,
+        "type": "Tool",
+        "description": "ModVizPop is an interactive and dynamic visualization tool developed for simulating differential equation based population PK/PD models with variability. This easy to use interface can serve as a valuable tool to project teams to evaluate potential scenarios.",
+        "language": [
+            "R"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2024-02-22",
+        "portalInclusionDate": "2021-09-06",
+        "portalUpdateDate": "2021-09-06",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/PavanVaddady/modvizpop",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "GPL-3",
+        "documentation": "https://ascpt.onlinelibrary.wiley.com/doi/10.1002/psp4.12697",
+        "authorType": "individual",
+        "authors": [
+            "Pavan Vaddady"
+        ],
+        "areaUsers": [
+            "STAT",
+            "PROG"
+        ],
+        "areaWorkfield": "Statistics",
+        "size": "medium",
+        "relevance": 6,
+        "image": "modvizpop_01.png",
+        "images": [
+            "modvizpop_01.png",
+            "modvizpop_02.png",
+            "modvizpop_03.png",
+            "modvizpop_04.png",
+            "modvizpop_05.png"
+        ],
+        "logo": "modvizpop_logo.png",
+        "linkPresentation": "",
+        "linkVideo": "",
+        "linkPaper": "",
+        "linkPoster": [
+            "https://github.com/PavanVaddady/modvizpop/blob/main/inst/shiny-apps/myapp/www/Posters/Vaddady_ACOP2018_ModViz.pdf",
+            "https://github.com/PavanVaddady/modvizpop/blob/main/inst/shiny-apps/myapp/www/Posters/Ananthula_ACOP2019_ModViz.pdf"
+        ],
+        "linkDemonstration": "https://pavanvaddady.shinyapps.io/modvizpop/"
+    },
+    "ggcharts": {
+        "id": "ggcharts",
+        "groupID": "",
+        "name": "ggcharts",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The ggcharts R package is a toolkit to easily generate visualizations which would otherwise need quite some lines of data manipluations and ggplot2 usage.",
+        "language": [
+            "R"
+        ],
+        "outstanding": "Thomas creates and maintains this open source tool on his own.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2021-11-16",
+        "portalInclusionDate": "2020-02-17",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/thomas-neitmann/ggcharts",
+        "linkDocumentation": [
+            "https://github.com/thomas-neitmann/ggcharts/blob/master/README.md",
+            "https://cran.r-project.org/web/packages/ggcharts/ggcharts.pdf"
+        ],
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "Next to the GitHub documentation, R documentation is available after installing the package in R",
+        "authorType": "individual",
+        "authors": [
+            "Thomas Neitmann"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Outputs",
+        "size": "medium",
+        "relevance": 5,
+        "image": "ggcharts_01.png",
+        "images": [
+            "ggcharts_01.png",
+            "ggcharts_02.png",
+            "ggcharts_03.png",
+            "ggcharts_04.png",
+            "ggcharts_05.png",
+            "ggcharts_06.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "linkVignette": [
+            {
+                "Customizing ggcharts Plots": "https://cran.r-project.org/web/packages/ggcharts/vignettes/customize.html"
+            },
+            {
+                "Make Your Plots Stand Out with Highlights": "https://cran.r-project.org/web/packages/ggcharts/vignettes/highlight.html"
+            },
+            {
+                "Themes": "https://cran.r-project.org/web/packages/ggcharts/vignettes/themes.html"
+            }
+        ]
+    },
+    "chris_sas_macros": {
+        "id": "chris_sas_macros",
+        "groupID": "chris_sas_macros",
+        "name": "Chris's SAS Macros",
+        "openSource": true,
+        "type": "Tool",
+        "description": "This is the SAS Macro collection from Chris Swenson who published 83 supporting SAS macros which can be used for various purposes.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2023-06-21",
+        "portalInclusionDate": "2020-03-13",
+        "portalUpdateDate": "2021-02-01",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/chris-swenson/sasmacros",
+        "linkDocumentation": "https://github.com/chris-swenson/sasmacros/wiki",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "LGPL",
+        "documentation": "A few macros contain documentation no the webpage, quick header documentation is available as well.",
+        "authorType": "individual",
+        "authors": [
+            "Chris Swenson"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "PROG",
+            "STAT"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 5,
+        "image": "chris_sas_macros01.png",
+        "images": [
+            "chris_sas_macros01.png",
+            "chris_sas_macros02.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": [
+            "http://support.sas.com/resources/papers/proceedings12/098-2012.pdf",
+            "http://support.sas.com/resources/papers/proceedings12/060-2012.pdf"
+        ]
+    },
+    "RCRANClinicalTrials": {
+        "id": "RCRANClinicalTrials",
+        "name": "R for Clinical Trials - Link List",
+        "openSource": true,
+        "type": "Link",
+        "description": "A huge tool collection list for R exists and is maintained by Ed Zhang and Harry G. Zhang.",
+        "language": "R",
+        "lastUpdateDate": "2019-02-20",
+        "portalInclusionDate": "2019-05-24",
+        "portalUpdateDate": "2019-05-24",
+        "linkGithubNY": false,
+        "linkDocumentation": "https://cran.r-project.org/web/views/ClinicalTrials.html",
+        "license": "n.a.",
+        "authorType": "individual",
+        "authors": [
+            "Ed Zhang",
+            "Harry G. Zhang"
+        ],
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "medium",
+        "relevance": 6,
+        "image": "rcranclinicaltrials_01.png",
+        "images": [
+            "rcranclinicaltrials_01.png"
+        ]
+    },
+    "defineR": {
+        "id": "defineR",
+        "groupID": "",
+        "name": "defineR",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The defineR package is an open-source R language package to create define.xml documents and additionally performs consistency checks and schema validation.",
+        "language": "R",
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2025-12-15",
+        "portalInclusionDate": "2022-11-08",
+        "portalUpdateDate": "2022-11-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/dbosak01/defineR",
+        "linkDocumentation": "https://definer.r-sassy.org/index.html",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "CC0",
+        "documentation": "",
+        "authorType": "individual",
+        "authors": [
+            "David Bosak",
+            "Aheer Alvi"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "Define",
+        "size": "small",
+        "relevance": 6,
+        "image": "defineR_01.png",
+        "images": [
+            "defineR_01.png",
+            "defineR_02.png",
+            "defineR_03.png",
+            "defineR_04.png",
+            "defineR_05.png",
+            "defineR_06.png",
+            "defineR_07.png"
+        ],
+        "logo": "defineR_logo.png",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "R4DSXML": {
+        "id": "R4DSXML",
+        "groupID": "",
+        "name": "R4DSXML",
+        "openSource": true,
+        "type": "Tool",
+        "description": "R4DSXML is R package for import CDISC Dataset-XML and Define-XML as R data frame. The tool support CDISC Dataset-XML 1.0, Define-XML 2.0 and Analysis Results Metadata 1.0.",
+        "language": [
+            "R"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2021-03-13",
+        "portalInclusionDate": "2019-06-05",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/i-akiya/R4DSXML",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "LGPL3",
+        "documentation": "After downloading the package to R, the R documentation is available.",
+        "authorType": "individual",
+        "authors": "Ippei Akiya",
+        "areaUsers": [
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "Define",
+        "size": "small",
+        "relevance": 6,
+        "image": "r4dsxml_01.png",
+        "images": [
+            "r4dsxml_01.png",
+            "r4dsxml_02.png",
+            "r4dsxml_03.png",
+            "r4dsxml_04.png",
+            "r4dsxml_05.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "CDISCodmAnno": {
+        "id": "CDISCodmAnno",
+        "groupID": "CDISCodmAnno",
+        "name": "CDISC-ODM-XML-CRF-SDTM-Annotations",
+        "openSource": true,
+        "type": "Tool",
+        "description": "This tool supports various aspects for working with ODM-XML in the CRF context including annotated CRFs.",
+        "language": [
+            "Web"
+        ],
+        "outstanding": "This tool can visualize a CRF defined in ODM-XML, including annotations. ACRF and BCRF documents can be created containing links.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2024-01-21",
+        "portalInclusionDate": "2020-11-08",
+        "portalUpdateDate": "2020-11-08",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/jmangori/CDISC-ODM-XML-CRF-SDTM-Annotations",
+        "linkDocumentation": "",
+        "linkVideo": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "Documentation in the readme file and examples provided for ADAM and STDM",
+        "authorType": "individual",
+        "authors": [
+            "J\u00f8rgen Mangor Iversen"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "CDISC",
+        "size": "medium",
+        "relevance": 7,
+        "image": "CDISCodmAnno_01.png",
+        "images": [
+            "CDISCodmAnno_01.png",
+            "CDISCodmAnno_02.png",
+            "CDISCodmAnno_03.png",
+            "CDISCodmAnno_04.png",
+            "CDISCodmAnno_05.png",
+            "CDISCodmAnno_06.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "linkDemonstration": "https://try2.info/cdisc-xml/cdisc-xml.html"
+    },
+    "CDISCDefineXMLMap": {
+        "id": "CDISCDefineXMLMap",
+        "groupID": "CDISCDefineXMLMap",
+        "name": "DefineXML SAS XMLMAP",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The CDISC-Define-XML-SAS-XMLMAP provides two mapping files which can be used in SAS to map ODM and define.xml in version 2.0.0 to SAS dataets. Furthermore a macro is provided to create define-view like datasets in SAS.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "This mapping file provides very easy access to the define.xml content needed for CDISC submissions.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2023-06-30",
+        "portalInclusionDate": "2020-09-14",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/jmangori/CDISC-Define-XML-SAS-XMLMAP",
+        "linkDocumentation": "",
+        "linkVideo": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "Documentation in the readme file and examples provided for ADAM and STDM",
+        "authorType": "individual",
+        "authors": [
+            "J\u00f8rgen Mangor Iversen"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM"
+        ],
+        "areaWorkfield": "Define",
+        "size": "small",
+        "relevance": 7,
+        "image": "CDISCDefineXMLMap_01.png",
+        "images": [
+            "CDISCDefineXMLMap_01.png",
+            "CDISCDefineXMLMap_02.png",
+            "CDISCDefineXMLMap_03.png",
+            "CDISCDefineXMLMap_04.png",
+            "CDISCDefineXMLMap_05.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "odmlib": {
+        "id": "odmlib",
+        "groupID": "odmlib",
+        "name": "odmlib",
+        "openSource": true,
+        "type": "Tool",
+        "description": "The odmlib package is a Python package to work with ODM documents, like the defineXML or datasetsXML. It provides object-oriented interface that simplifies creating and processing them.",
+        "language": [
+            "Python"
+        ],
+        "outstanding": "This package can for example convert a defineXML to a metadata spreadsheet and such a spreadsheet back to defineXML.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-23",
+        "portalInclusionDate": "2021-12-10",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/swhume/odmlib",
+        "linkDocumentation": "https://github.com/swhume/odmlib_examples",
+        "linkVideo": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "Various examples are available",
+        "authorType": "individual",
+        "authors": [
+            "Sam Hume"
+        ],
+        "areaUsers": [
+            "ANALYST",
+            "DM",
+            "PROG"
+        ],
+        "areaWorkfield": [
+            "Define",
+            "CDISC"
+        ],
+        "size": "small",
+        "relevance": 7,
+        "image": "odmlib_01.png",
+        "images": [
+            "odmlib_01.png",
+            "odmlib_02.png",
+            "odmlib_03.png",
+            "odmlib_04.png",
+            "odmlib_05.png"
+        ],
+        "logo": "",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "SASBlog": {
+        "id": "SASBlog",
+        "groupID": "SASBlog",
+        "name": "Data Visualization - SAS Blog",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "SAS has a blog post where various topics are discussed and examples are provided. The 'Data Visualization' blog contains a lot of examples including source code on various graphic types.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "Sometimes the source is directly available, but sometimes it's in the text and not available as whole.",
+        "lastUpdateDate": "2026-02-19",
+        "portalInclusionDate": "2020-01-20",
+        "portalUpdateDate": "2020-01-20",
+        "linkGithubNY": false,
+        "linkSource": "",
+        "linkDocumentation": "https://blogs.sas.com/content/topic/data-visualization/",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "",
+        "documentation": "Blogs explain problem and solution. Partly the source code is explained as well.",
+        "authorType": "company",
+        "authors": "SAS Employees",
+        "areaUsers": [
+            "DM",
+            "ANALYST",
+            "STAT",
+            "PROG"
+        ],
+        "areaWorkfield": "Visualization",
+        "size": "small",
+        "relevance": 7,
+        "image": "sas_blog_03.png",
+        "images": [
+            "sas_blog_03.png",
+            "sas_blog_01.png",
+            "sas_blog_02.png",
+            "sas_blog_04.png",
+            "sas_blog_05.png",
+            "sas_blog_06.png",
+            "sas_blog_07.png",
+            "sas_blog_08.png"
+        ],
+        "logo": "sas_logo.png",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "SASPackagesFramework": {
+        "id": "SASPackagesFramework",
+        "name": "SAS Packages Framework",
+        "openSource": true,
+        "type": "Tool",
+        "description": "SAS Package Manager - a cross-platform framework which allows to create and use SAS Packages.",
+        "language": "SAS",
+        "outstanding": "A SAS Package is best the way for (simple) sharing your (complex) code with other users.",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2026-03-04",
+        "portalInclusionDate": "2021-05-28",
+        "portalUpdateDate": "2021-05-28",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/yabwon/SAS_PACKAGES",
+        "linkDocumentation": [
+            "https://github.com/yabwon/SAS_PACKAGES/tree/main/SPF/Documentation",
+            "https://github.com/yabwon/SAS_PACKAGES/blob/main/SPF/SPFinit.md"
+        ],
+        "linkCompany": "",
+        "linkVideo": [
+            "https://www.youtube.com/watch?v=hqexaQtGw88",
+            "https://www.youtube.com/watch?v=mXuep2k48Z8&feature=youtu.be&t=0s",
+            "https://www.basug.org/videos?wix-vod-video-id=78067e61413d43d3a6951974b3bc3014&wix-vod-comp-id=comp-klv807gt"
+        ],
+        "linkPresentation": "https://github.com/yabwon/SAS_PACKAGES/blob/main/SPF/Documentation/Getting_Started_with_SAS_Packages.pdf",
+        "license": "MIT",
+        "documentation": "See the documentation section at GitHub for the details",
+        "authorType": "individual",
+        "authors": [
+            "Bartosz Jab\u0142o\u0144ski"
+        ],
+        "areaUsers": [
+            "PROG",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "logo": "",
+        "image": "sas_packages_01.jpg",
+        "images": [
+            "sas_packages_01.jpg",
+            "sas_packages_02.jpg",
+            "sas_packages_03.jpg"
+        ]
+    },
+    "RhoIncPlots": {
+        "id": "RhoIncPlots",
+        "groupID": "RhoIncPlots",
+        "name": "RhoInc Plots",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "Multiple Plot SAS Macros are made available by RhoInc employees in different GitHub subpages. There is a violin plot, sankey barchart, bee swarm and other related macros available.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2019-08-08",
+        "portalInclusionDate": "2019-06-05",
+        "portalUpdateDate": "2019-08-12",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/RhoInc?language=sas",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "linkCompany": "http://www.rhoinc.com",
+        "license": "MIT",
+        "documentation": "Readme files and wikis are available on the GitHub Subpages.",
+        "authorType": "company",
+        "authors": "RhoInc Employees",
+        "areaUsers": [
+            "ANALYST"
+        ],
+        "areaWorkfield": "Visualization",
+        "size": "small",
+        "relevance": 7,
+        "image": "rhoinc_01.png",
+        "images": [
+            "rhoinc_01.png",
+            "rhoinc_02.png",
+            "rhoinc_03.png",
+            "rhoinc_04.png"
+        ],
+        "logo": "rhoinc_logo.png",
+        "linkPresentation": "",
+        "linkPaper": [
+            "https://www.lexjansen.com/pharmasug/2015/DV/PharmaSUG-2015-DV07.pdf",
+            "https://www.lexjansen.com/pharmasug/2016/DG/PharmaSUG-2016-DG15.pdf",
+            "https://analytics.ncsu.edu/sesug/2014/RIV-12.pdf"
+        ]
+    },
+    "SMILE": {
+        "id": "SMILE",
+        "groupID": "SMILE",
+        "name": "SMILE - Smart SAS Macros",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "This Smart SAS Macros - an Intuitive Library Extension contains small makros for example to download files from URLs or creating flat PDF navigation panes for ODS PDF.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "The library can be enhanced by anything through sponsorship",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2023-03-10",
+        "portalInclusionDate": "2021-01-22",
+        "portalUpdateDate": "2021-01-22",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/KatjaGlassConsulting/SMILE-SmartSASMacros",
+        "linkDocumentation": "https://katjaglassconsulting.github.io/SMILE-SmartSASMacros/",
+        "linkHomepage": "",
+        "linkCompany": "https://www.glacon.eu",
+        "license": "MIT",
+        "documentation": "Extensive documentation is available including example calls and explanations.",
+        "authorType": "company",
+        "authors": "Katja Glass",
+        "areaUsers": [
+            "PROG",
+            "ANALYST"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "relevance": 8,
+        "image": "smile_01.png",
+        "images": [
+            "smile_01.png",
+            "smile_02.png",
+            "smile_03.png",
+            "smile_04.png"
+        ],
+        "logo": "glacon_logo.png",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "podr": {
+        "id": "podr",
+        "groupID": "",
+        "name": "PODR - Explore PHUSE Open Data Repository",
+        "openSource": true,
+        "type": "Tool",
+        "description": "This package contains functions and a R Shiny app to allow you easily connect to PODR database and explore datasets related to CSS 2020 Hackathon",
+        "language": [
+            "R",
+            "RShiny"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2021-06-05",
+        "portalInclusionDate": "2021-08-30",
+        "portalUpdateDate": "2021-08-30",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/TuCai/podr",
+        "linkDocumentation": "https://github.com/TuCai/podr",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "",
+        "authorType": "individual",
+        "authors": "Hanming Tu",
+        "areaUsers": [
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "relevance": 6,
+        "image": "podr_01.png",
+        "images": [
+            "podr_01.png",
+            "podr_02.png",
+            "podr_03.png",
+            "podr_04.png",
+            "podr_05.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "",
+        "linkPaper": "",
+        "linkDemonstration": "https://geotiger.shinyapps.io/01_podr/"
+    },
+    "eudract_ae": {
+        "id": "eudract_ae",
+        "groupID": "",
+        "name": "eudract_ae",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "This Python source code is to create XML adverse events file in a specific format which can be uploaded to EudraCT website.",
+        "language": [
+            "Python"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "EudraCT will be replaced by CTIS, both systems will run in parallel at first",
+        "lastUpdateDate": "2021-03-26",
+        "portalInclusionDate": "2021-08-27",
+        "portalUpdateDate": "2021-08-27",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/kevinjacksonm/eudract_ae",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "linkCompany": "",
+        "license": "MIT",
+        "documentation": "A presentation has been available at PHUSE US Connect 2021",
+        "authorType": "individual",
+        "authors": [
+            "Kevin Miller",
+            "Larry Sleeper"
+        ],
+        "areaUsers": [
+            "PROG"
+        ],
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "relevance": 8,
+        "image": "eudract_ae_03.png",
+        "images": [
+            "eudract_ae_03.png",
+            "eudract_ae_01.png",
+            "eudract_ae_02.png"
+        ],
+        "logo": "",
+        "linkPresentation": "https://phuse.s3.eu-central-1.amazonaws.com/Archive/2021/Connect/US/Virtual/PRE_SI11.pdf",
+        "linkPaper": ""
+    },
+    "phuseLinkedData": {
+        "id": "phuseLinkedData",
+        "groupID": "phuseLinkedData",
+        "name": "Going Translational with Linked Data ",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "In this project, formerly known as Clinical Trial Data to RDF, many scripts and macros are available to transform clinical trial data into linked data triples. There are also related scripts like visualization of triples and scripts (R and SAS) to triplify MedDRA.",
+        "language": [
+            "R",
+            "Other",
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2020-04-10",
+        "portalInclusionDate": "2019-05-27",
+        "portalUpdateDate": "2020-11-02",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/CTDasRDF",
+        "linkDocumentation": "https://github.com/phuse-org/CTDasRDF/blob/master/doc/TableOfContents.md",
+        "linkHomepage": "",
+        "license": "MIT",
+        "documentation": "The project is documented, the scripts are rarely documented.",
+        "authorType": "individual",
+        "authors": "PhUSE Working Group",
+        "areaUsers": "PROG",
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "relevance": 9,
+        "image": "phuseLinkedData_01.png",
+        "images": [
+            "phuseLinkedData_01.png",
+            "phuseLinkedData_02.png",
+            "phuseLinkedData_03.png",
+            "phuseLinkedData_04.png",
+            "phuseLinkedData_05.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "https://www.lexjansen.com/phuse-us/2018/tt/TT17.pdf",
+        "linkPaper": "https://www.lexjansen.com/phuse-us/2018/tt/TT17.pdf"
+    },
+    "WPUtilities": {
+        "id": "WPUtilities",
+        "groupID": "WPUtilities",
+        "name": "PhUSE White Paper Utilities",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "24 utility macros mainly for testing and validation has been developed by a PhUSE Working Group to perform qualifications. These utilities are made available in the PhUSE Script Repository.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2017-03-21",
+        "portalInclusionDate": "2019-05-27",
+        "portalUpdateDate": "2019-05-27",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/phuse-scripts/tree/master/whitepapers/utilities",
+        "linkDocumentation": "https://github.com/phuse-org/phuse-scripts/wiki/Utility-Macro-Index-(SAS)",
+        "license": "MIT",
+        "documentation": "Header Documentation",
+        "authorType": "individual",
+        "authors": "PhUSE Working Group",
+        "areaUsers": "PROG",
+        "areaWorkfield": "Programming",
+        "size": "small",
+        "relevance": 9,
+        "image": "wpunilities_01.png",
+        "images": [
+            "wpunilities_01.png",
+            "wpunilities_02.png",
+            "wpunilities_03.png"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": ""
+    },
+    "phuseOther": {
+        "id": "phuseOther",
+        "groupID": "phuseOther",
+        "name": "PhUSE Contributed Scripts & Macros",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "There are various scripts and macros available contributed to the PhUSE repository apart from those listed here as well. These might come from PhUSE working groups, individuals or presenters. Some are documented as PhUSE papers.",
+        "language": [
+            "R",
+            "SAS",
+            "Other"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2025-08-25",
+        "portalInclusionDate": "2019-05-27",
+        "portalUpdateDate": "2019-08-12",
+        "linkGithubNY": true,
+        "linkSource": "https://github.com/phuse-org/phuse-scripts",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "license": "MIT",
+        "documentation": "unknown",
+        "authorType": "individual",
+        "authors": [
+            "PhUSE Working Group",
+            "individuals"
+        ],
+        "areaUsers": "",
+        "areaWorkfield": "",
+        "size": "small",
+        "relevance": 9,
+        "image": "phuseOther_01.jpg",
+        "images": [
+            "phuseOther_01.jpg"
+        ],
+        "logo": "phuse_logo.png",
+        "linkPresentation": "",
+        "linkPaper": ""
+    },
+    "Others": {
+        "id": "Others",
+        "groupID": "Others",
+        "name": "Others - Single Scripts & Macros",
+        "openSource": true,
+        "type": "Scripts",
+        "description": "There are various scripts and macros available at single locations, these can be checked out under the 'programs' view.",
+        "language": [
+            "SAS"
+        ],
+        "outstanding": "",
+        "thinkAbouts": "",
+        "lastUpdateDate": "2020-01-22",
+        "portalInclusionDate": "2020-01-22",
+        "portalUpdateDate": "2020-01-22",
+        "linkGithubNY": false,
+        "linkSource": "",
+        "linkDocumentation": "",
+        "linkHomepage": "",
+        "license": "",
+        "documentation": "",
+        "authorType": "individual",
+        "authors": [
+            "individuals"
+        ],
+        "areaUsers": "",
+        "areaWorkfield": "",
+        "size": "small",
+        "relevance": 9,
+        "image": "others_01.png",
+        "images": [
+            "others_01.png"
+        ]
+    }
+}
