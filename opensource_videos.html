@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,7 +12,7 @@
 
     <title>Open Source Videos</title>
 
-    <?php include './components/header_includes.php';?>
+    {% include head.html %}
 
     <script>
         function openVideo(video) {
@@ -20,7 +22,7 @@
 </head> 
 
 <body>
-    <?php include './components/header.php';?>
+    {% include header.html %}
 
     <div class="bodycontent">
         <div class="ui vertical segment">
@@ -99,7 +101,7 @@
         </div>
     </div>
 
-    <?php include './components/footer.php';?>
+    {% include footer.html %}
 </body>
 
 </html>

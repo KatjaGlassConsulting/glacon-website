@@ -1,0 +1,11 @@
+title: GlaCon - Katja Glass Consulting
+url: https://www.glacon.eu
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - docs
+  - index_dev.html
+  - localhost.txt
+  - sitemap_location.txt

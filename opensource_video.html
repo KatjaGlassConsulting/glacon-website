@@ -1,72 +1,5 @@
-<?php
-    $videos = array(
-        'video1' => array(
-            'title' => 'Quick Introduction',
-            'source' => 'videos/2018_12_video1_short.mp4',
-            'countlog' => 'videos/video1.txt',
-            'type' => 'file'
-        ),
-        'video2' => array(
-            'title' => 'Introduction',
-            'source' => 'https://www.youtube-nocookie.com/embed/af321V1XkTI',
-            'countlog' => 'videos/video2.txt',
-            'type' => 'YouTube'
-        ),
-        'video3' => array(
-            'title' => 'Open Source PoC Project',
-            'source' => 'videos/2018_12_video3_poc.mp4',
-            'countlog' => 'videos/video3.txt',
-            'type' => 'file'
-        ),
-        'video4' => array(
-            'title' => 'Solutions, Challenges &amp; Visions',
-            'source' => 'https://www.youtube-nocookie.com/embed/MwwCnVvViPY',
-            'countlog' => 'videos/video4.txt',
-            'type' => 'YouTube'
-        ),
-        'video5' => array(
-            'title' => 'Using an Open Source SAS Macro - How to do?',
-            'source' => 'https://www.youtube-nocookie.com/embed/48cLKNqVQs4',
-            'countlog' => 'videos/video5.txt',
-            'type' => 'YouTube'
-        ),
-        'video6' => array(
-            'title' => 'Clinical Data Science - Going the Open Source Route - PhUSE Recording',
-            'source' => 'https://www.youtube-nocookie.com/embed/39HS0O0ZnLs',
-            'countlog' => 'videos/video6.txt',
-            'type' => 'YouTube'
-        ),
-        'video7' => array(
-            'title' => 'FAIR for Source Code - PhUSE Recording',
-            'source' => 'https://www.youtube-nocookie.com/embed/87o_NeCrw4o',
-            'countlog' => 'videos/video7.txt',
-            'type' => 'YouTube'
-        )
-    );
-
-    $param = isset($_GET['video']) ? $_GET['video'] : null;
-
-    if(isset($videos[$param])){
-        $video = $videos[$param];
-    } else {
-        $video = $videos['video1'];
-    }
-
-    $handle = fopen($video['countlog'], "r");
-    if (!$handle) {
-        #echo "could not open the file";
-    } else {
-        $counter = (int )fread($handle, 20);
-        fclose($handle);
-        $counter++;
-        #echo " <strong> you are visitor no " . $counter . " </strong> ";
-        $handle = fopen($video['countlog'], "w");
-        fwrite($handle, $counter);
-        fclose($handle);
-    }
-?>
-
-
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,7 +12,7 @@
 
     <title>Open Source Video</title>
 
-    <?php include './components/header_includes.php';?>
+    {% include head.html %}
 
     <script>
         function openVideo(video) {
@@ -89,7 +22,7 @@
 </head>
 
 <body>
-    <?php include './components/header.php';?>
+    {% include header.html %}
 
     <div class="bodycontent">
         <div class="ui vertical segment">
@@ -97,24 +30,13 @@
                 <div>
                     <div class="row">
                         <div class="sixteen wide column">
-                            <h1 class="article-h1"><?= $video['title'] ?></h1>
+                            <h1 class="article-h1" id="videoTitle"></h1>
                             <hr class="article-hr">
                         </div>
                     </div>
                     <div class="row">
                         <div class="sixteen wide column">
-                            <?php                              
-                                if ($video['type'] == "file") {
-                                    echo '<video class="fullsize" controls=""><source src=';
-                                    echo $video['source'];
-                                    echo ' type="video/mp4">Your browser does not support HTML5 video. </video>';
-                                }
-                                else {
-                                    echo '<iframe class="youTubeVideoSize" src="';
-                                    echo $video['source'];
-                                    echo '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
-                                }
-                            ?>
+                            <div id="videoPlayer"></div>
                         </div>
                     </div>
                 </div>
@@ -159,7 +81,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row">                    
+                <div class="row">
                     <div class="five wide column fullHeight">
                         <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video5')">
                             <h2>Using an Open Source SAS Macro - How to do?</h2>
@@ -169,7 +91,7 @@
                                 <p>(33 minutes, YouTube)</p>
                             </div>
                         </div>
-                    </div>                    
+                    </div>
                     <div class="five wide column fullHeight">
                         <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video6')">
                             <h2>Clinical Data Science - Going the Open Source Route</h2>
@@ -183,7 +105,7 @@
                     <div class="five wide column fullHeight">
                         <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video7')">
                             <h2>FAIR for Source Code</h2>
-                            <p>This recording from the PhUSE SDE shows how to make source code FAIR, concentrating on making this findable by creating 
+                            <p>This recording from the PhUSE SDE shows how to make source code FAIR, concentrating on making this findable by creating
                                 a program knowledge repository.
                             </p>
                             <div class="absolutBottom"><img src="./images/videos_presi_07.gif"
@@ -197,7 +119,31 @@
         </div>
     </div>
 
-    <?php include './components/footer.php';?>
+    {% include footer.html %}
+
+    <script>
+        (function () {
+            var videos = {
+                video1: { title: 'Quick Introduction', source: 'videos/2018_12_video1_short.mp4', type: 'file' },
+                video2: { title: 'Introduction', source: 'https://www.youtube-nocookie.com/embed/af321V1XkTI', type: 'YouTube' },
+                video3: { title: 'Open Source PoC Project', source: 'videos/2018_12_video3_poc.mp4', type: 'file' },
+                video4: { title: 'Solutions, Challenges & Visions', source: 'https://www.youtube-nocookie.com/embed/MwwCnVvViPY', type: 'YouTube' },
+                video5: { title: 'Using an Open Source SAS Macro - How to do?', source: 'https://www.youtube-nocookie.com/embed/48cLKNqVQs4', type: 'YouTube' },
+                video6: { title: 'Clinical Data Science - Going the Open Source Route - PhUSE Recording', source: 'https://www.youtube-nocookie.com/embed/39HS0O0ZnLs', type: 'YouTube' },
+                video7: { title: 'FAIR for Source Code - PhUSE Recording', source: 'https://www.youtube-nocookie.com/embed/87o_NeCrw4o', type: 'YouTube' }
+            };
+            var key = new URLSearchParams(window.location.search).get('video');
+            var video = videos[key] || videos.video1;
+            document.getElementById('videoTitle').textContent = video.title;
+            var player;
+            if (video.type === 'file') {
+                player = '<video class="fullsize" controls=""><source src="' + video.source + '" type="video/mp4">Your browser does not support HTML5 video. </video>';
+            } else {
+                player = '<iframe class="youTubeVideoSize" src="' + video.source + '" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+            }
+            document.getElementById('videoPlayer').innerHTML = player;
+        })();
+    </script>
 </body>
 
 </html>
