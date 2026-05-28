@@ -1,7 +1,7 @@
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 
 module.exports = {
-  basePath: '/portal',
+  /*basePath: '/portal',*/
   output: 'export',
   /*webpack: (config, { dev, isServer }) => {
     if (dev && !isServer) {
