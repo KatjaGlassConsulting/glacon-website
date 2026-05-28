@@ -3,7 +3,7 @@ import copy
 import json
 import datetime
 from pyyoutube import Api
-api = Api(api_key='AIzaSyDpQGwCeBJMhI9LImNU-u8zjutyM1HLz3Y')
+api = Api(api_key='...')
 
 def get_isosplit(s, split):
     if split in s:

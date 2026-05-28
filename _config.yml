@@ -1,6 +1,11 @@
 title: GlaCon - Katja Glass Consulting
 url: https://www.glacon.eu
 exclude:
+  # Defining a custom exclude list REPLACES Jekyll's built-in defaults, so the
+  # vendor/node_modules entries below must be restated — otherwise CI's bundled
+  # gems (installed into vendor/bundle) get scanned and break the build.
+  - vendor
+  - node_modules
   - README.md
   - LICENSE
   - Gemfile
