@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Katja Glass Consulting - Open Source Videos">
+    <meta name="author" content="Katja Glass">
+
+    <title>Open Source Videos</title>
+
+    <?php include './components/header_includes.php';?>
+
+    <script>
+        function openVideo(video) {
+            window.open("opensource_video.html?video=" + video, "_self")
+        }
+    </script>
+</head> 
+
+<body>
+    <?php include './components/header.php';?>
+
+    <div class="bodycontent">
+        <div class="ui vertical segment">
+            <div class="ui centered container stackable grid">
+                <div class="row">                    
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video1')">
+                            <h2>Quick Introduction</h2>
+                            <p>Want to get a very quick overview of open source collaboration options? Checkout this
+                                presentation!</p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_01.jpg"
+                                    alt="Link to Video Quick Introduction" class="ui image center">
+                                <p>(2 minutes, 4MB)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video2')">
+                            <h2>Introduction</h2>
+                            <p>This presentation will give you an more detailed overview on collaborations and open
+                                source.</p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_02.jpg"
+                                    alt="Link to Video Introduction" class="ui image center">
+                                <p>(7 minutes, YouTube)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video4')">
+                            <h2>Solutions, Challenges &amp; Visions</h2>
+                            <p>Overview on what open source solutions are available, which challenges they face –
+                                documentation and financing are the most important – and how the future could look like.
+                            </p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_04.jpg"
+                                    alt="Link to Video Challenges, Solutions and Visions" class="ui image center">
+                                <p>(17 minutes, YouTube)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">                    
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video5')">
+                            <h2>Using an Open Source SAS Macro - How to do?</h2>
+                            <p>How to find an Open Source SAS Macro and how to apply it to your own problems and data? This video shows you a way.</p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_05.jpg"
+                                    alt="Link to Video on Using Open Source Macro" class="ui image center">
+                                <p>(33 minutes, YouTube)</p>
+                            </div>
+                        </div>
+                    </div>                    
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video6')">
+                            <h2>Clinical Data Science - Going the Open Source Route</h2>
+                            <p>This recording from the PhUSE Bitsize Webinar 2020 shows how the Open Source Route could be used for Clinical Data Science.</p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_06.jpg"
+                                    alt="Link to Video Open Source Route" class="ui image center">
+                                <p>(30 minutes, YouTube)</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="five wide column fullHeight">
+                        <div class="boxCard fullHeight pointer marginBottomVideoCard" onClick="openVideo('video7')">
+                            <h2>FAIR for Source Code</h2>
+                            <p>This recording from the PhUSE SDE shows how to make source code FAIR, concentrating on making this findable by creating 
+                                a program knowledge repository.
+                            </p>
+                            <div class="absolutBottom"><img src="./images/videos_presi_07.gif"
+                                    alt="Link to Video FAIR for Source Code" class="ui image center">
+                                <p>(28 minutes, YouTube)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <?php include './components/footer.php';?>
+</body>
+
+</html>
