@@ -9,3 +9,6 @@ exclude:
   - index_dev.html
   - localhost.txt
   - sitemap_location.txt
+  # The Next.js portal is built separately (see .github/workflows) and merged
+  # into _site/portal by CI; never publish its source tree via Jekyll.
+  - portal
