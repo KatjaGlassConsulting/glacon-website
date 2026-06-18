@@ -1,4 +1,4 @@
-https://www.glacon.eu/index.html
+https://www.glacon.eu/
 https://www.glacon.eu/contact.html
 https://www.glacon.eu/datenschutzerklaerung.html
 https://www.glacon.eu/experiences.html
@@ -17,7 +17,7 @@ https://www.glacon.eu/portal/articles/2023-06-26-OSNews.html
 https://www.glacon.eu/portal/confVideos.html
 https://www.glacon.eu/portal/contact.html
 https://www.glacon.eu/portal/education.html
-https://www.glacon.eu/portal/index.html
+https://www.glacon.eu/portal/
 https://www.glacon.eu/portal/info.html
 https://www.glacon.eu/portal/legal.html
 https://www.glacon.eu/portal/links.html
@@ -28,4 +28,3 @@ https://www.glacon.eu/portal/projects.html
 https://www.glacon.eu/portal/rest.html
 https://www.glacon.eu/portal/scripts.html
 https://www.glacon.eu/portal/videos.html
-https://www.glacon.eu/videosearch/index.html
